@@ -1,0 +1,1310 @@
+G2024_11_02_08_15_25_550 	File generated
+G2024_11_02_08_15_25_550	View/Edit	admin	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_02_08_15_25_647	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_02_08_15_28_001	Back	admin	Clicked on	Back	in PConfig	
+G2024_11_02_08_15_28_011	Config	admin	Clicked on	Config	in PServices	
+G2024_11_02_08_15_31_098	Services	admin	Clicked on	Services	in P0120	
+G2024_11_02_08_15_32_413	admin	Logged out	by Click			
+G2024_11_02_08_15_45_112	admin5	Logged in	216.115.254.184				
+G2024_11_02_08_15_48_440	Services	admin5	Clicked on	Services	in P0120	
+G2024_11_02_08_15_50_132	Logs	admin5	Clicked on	Logs	in PServices	
+G2024_11_02_08_16_06_696	PreA	waiting started	500	ms	in PServices	
+G2024_11_02_08_16_07_812	Logs	admin5	Clicked on	Download	in PServices	G2024_11_02_08_15_18_058
+G2024_11_02_08_16_08_811	PostA	finished waiting	500	ms	in PServices	
+G2024_11_02_08_24_09_072	admin5	Logged out	by Click			
+G2024_11_02_09_14_32_795	duyadmin	Logged in	116.98.249.37				
+G2024_11_02_09_14_35_422	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_02_09_14_36_787	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_02_09_14_38_304	New ID	duyadmin	Clicked on	Existing ID with new F or new P	in New ID	
+G2024_11_02_09_14_38_581	PreA	waiting started	500	ms	in PServices	
+G2024_11_02_09_14_39_865	Logs	duyadmin	Clicked on	Download	in PServices	G2024_11_02_08_15_25_550
+G2024_11_02_09_14_40_868	PostA	finished waiting	500	ms	in PServices	
+G2024_11_02_09_23_21_643	duyadmin	Logged out	timeout			
+G2024_11_02_09_23_21_795	duyadmin	Logged out	by Click			
+G2024_11_02_09_23_21_817	duyadmin	Logged out	by Click			
+G2024_11_02_09_23_25_092	duyadmin	Logged in	116.98.249.37				
+G2024_11_02_09_23_28_058	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_02_09_23_29_266	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_02_09_23_30_616	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_02_09_23_31_195	PreA	waiting started	500	ms	in PServices	
+G2024_11_02_09_23_32_507	Logs	duyadmin	Process	Generate	in Logs	G2024_11_02_08_15_25_550
+G2024_11_02_09_23_33_510	PostA	finished waiting	500	ms	in PServices	
+G2024_11_02_09_23_43_841	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_02_09_23_44_179	PreA	waiting started	500	ms	in PServices	
+G2024_11_02_09_23_45_505	Logs	duyadmin	Process	Generate	in Logs	G2024_11_02_08_15_25_550
+G2024_11_02_09_23_46_506	PostA	finished waiting	500	ms	in PServices	
+G2024_11_02_09_24_11_510	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_02_09_24_51_625	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_02_09_24_51_931	PreA	waiting started	500	ms	in PServices	
+G2024_11_02_09_24_53_240	Logs	duyadmin	Process	Generating	in Logs	G2024_11_02_08_15_25_550
+G2024_11_02_09_24_54_234	PostA	finished waiting	500	ms	in PServices	
+G2024_11_02_09_31_15_840	duyadmin	Logged out	by Click			
+G2024_11_02_13_38_32_649	admin	Logged in	216.115.254.184				
+G2024_11_02_13_38_36_397	Services	admin	Clicked on	Services	in P0120	
+G2024_11_02_13_38_38_481	Logs	admin	Clicked on	Logs	in PServices	
+G2024_11_02_13_38_41_083	Logs	admin	Clicked on	Download	in Logs	
+G2024_11_02_13_38_41_266	PreA	waiting started	500	ms	in PServices	
+G2024_11_02_13_38_42_373	Logs	admin	Process	Generating	in Logs	G2024_11_02_08_15_25_550
+G2024_11_02_13_38_43_374	PostA	finished waiting	500	ms	in PServices	
+G2024_11_02_13_39_47_591	admin	Logged out	by Click			
+G2024_11_02_13_39_47_645	admin	Logged out	timeout			
+G2024_11_02_21_52_03_433	duyadmin	Logged in	14.175.93.59				
+G2024_11_02_21_52_08_368	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_02_21_52_15_237	PreB	waiting started	1000	ms	in PNewID	ID: 229-1-1
+G2024_11_02_21_52_17_529	New ID	duyadmin	Clicked on	Generate newID	in New ID	ID: 229-1-1	
+G2024_11_02_21_52_17_547	PostB	finished waiting	1000	ms	in PNewID	ID: 229-1-1
+G2024_11_02_21_52_17_923	Users	duyadmin	Clicked on	View/Edit	in PUsers	229-1-1	
+G2024_11_02_21_53_18_412	PreB	waiting started	1000	ms	in PViewEdit	ID: 229-1-1
+G2024_11_02_21_53_19_719	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 229-1-1	
+G2024_11_02_21_53_20_723	PostB	finished waiting	1000	ms	in PViewEdit	ID: 229-1-1
+G2024_11_02_21_53_21_099	Users	duyadmin	Clicked on	View/Edit	in PUsers	229-1-1	
+G2024_11_02_21_53_48_210	PreB	waiting started	1000	ms	in PViewEdit	ID: 229-1-1
+G2024_11_02_21_53_50_521	PostB	finished waiting	1000	ms	in PViewEdit	ID: 229-1-1
+G2024_11_02_21_53_50_870	Update	duyadmin	Clicked on	Generate User and Password	in PViewEdit	ID: 229-1-1
+G2024_11_02_21_53_51_176	Users	duyadmin	Clicked on	View/Edit	in PUsers	229-1-1	
+G2024_11_02_21_53_59_916	Update	duyadmin	Clicked on	Copy Username and Password	in PViewEdit	ID: 229-1-1
+G2024_11_02_21_54_06_055	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_02_21_54_10_003	Users	duyadmin	Clicked on	View/Edit	in PUsers	229-1-1	
+G2024_11_02_21_54_11_923	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_02_21_54_14_090	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_02_21_54_17_218	Users	duyadmin	Clicked on	View/Edit	in PUsers	teacher01
+G2024_11_02_21_54_18_933	PreC	waiting started	3000	ms	in PViewEdit	
+G2024_11_02_21_54_22_245	Users	duyadmin	Clicked on	Update	in PUsers	teacher01
+G2024_11_02_21_54_25_246	PostC	finished waiting	3000	ms	in PViewEdit	
+G2024_11_02_21_54_27_907	Users	duyadmin	Clicked on	Generate Password	in Users	
+G2024_11_02_21_54_29_635	Back	duyadmin	Clicked on	Back	in PUsers	
+G2024_11_02_21_54_29_643	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_02_21_54_34_357	Search	duyadmin	Clicked on	Search	in P0120	
+G2024_11_02_21_54_36_409	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_02_21_54_39_125	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_02_21_54_42_290	Password	duyadmin	Clicked on	Passwords	in PServices	
+G2024_11_02_21_54_48_321	PreD	waiting started	1000	ms	in PServices	
+G2024_11_02_21_54_49_634	Password	duyadmin	Clicked on	Update	in PServices	
+G2024_11_02_21_54_50_636	PostD	finished waiting	1000	ms	in PServices	
+G2024_11_02_21_54_52_822	PreD	waiting started	1000	ms	in PServices	
+G2024_11_02_21_54_54_136	Password	duyadmin	Clicked on	Update	in PServices	
+G2024_11_02_21_54_55_139	PostD	finished waiting	1000	ms	in PServices	
+G2024_11_02_21_55_00_092	PreD	waiting started	1000	ms	in PServices	
+G2024_11_02_21_55_01_407	Password	duyadmin	Clicked on	Update	in PServices	
+G2024_11_02_21_55_02_410	PostD	finished waiting	1000	ms	in PServices	
+G2024_11_02_21_55_06_239	PreD	waiting started	1000	ms	in PServices	
+G2024_11_02_21_55_10_700	PostD	finished waiting	1000	ms	in PServices	
+G2024_11_02_21_55_13_443	PreD	waiting started	1000	ms	in PServices	
+G2024_11_02_21_55_18_567	PostD	finished waiting	1000	ms	in PServices	
+G2024_11_02_21_55_22_811	Back	duyadmin	Clicked on	Back	in PServices	
+G2024_11_02_21_55_22_815	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_02_21_55_25_334	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_02_21_55_29_249	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_02_21_55_32_061	View/Edit	duyadmin	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_02_21_55_32_345	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_02_21_55_34_111	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_02_21_55_34_117	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_02_21_55_39_229	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_11_02_21_55_42_938	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_02_21_55_42_944	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_02_21_55_45_839	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_02_21_55_47_558	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_02_21_55_51_200	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_02_21_55_51_499	PreA	waiting started	500	ms	in PServices	
+G2024_11_02_21_55_52_810	Logs	duyadmin	Process	Generating	in Logs	G2024_11_02_08_15_25_550
+G2024_11_02_21_55_53_811	PostA	finished waiting	500	ms	in PServices	
+G2024_11_02_22_00_04_265	duyadmin	Logged out	timeout			
+G2024_11_02_22_00_04_322	duyadmin	Logged out	by Click			
+G2024_11_03_00_01_34_975	duyadmin	Logged in	116.98.249.37				
+G2024_11_03_00_01_39_126	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_03_00_01_43_055	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_03_00_01_45_048	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_03_00_01_45_573	PreA	waiting started	500	ms	in PServices	
+G2024_11_03_00_01_46_856	Logs	duyadmin	Process	Generating	in Logs	G2024_11_02_08_15_25_550
+G2024_11_03_00_01_47_851	PostA	finished waiting	500	ms	in PServices	
+G2024_11_03_00_07_18_640	duyadmin	Logged out	by Click			
+G2024_11_03_00_45_59_582	duyadmin	Logged in	116.98.249.37				
+G2024_11_03_00_46_02_262	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_03_00_46_03_561	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_03_00_46_04_719	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_03_00_46_05_013	PreA	waiting started	500	ms	in PServices	
+G2024_11_03_00_46_07_307	PostA	finished waiting	500	ms	in PServices	
+G2024_11_03_00_46_10_581	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_03_00_46_10_902	PreA	waiting started	500	ms	in PServices	
+G2024_11_03_00_46_12_192	Logs	duyadmin	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_03_00_46_13_208	PostA	finished waiting	500	ms	in PServices	
+G2024_11_03_00_46_38_747	Back	duyadmin	Clicked on	Back	in PServices	
+G2024_11_03_00_46_38_757	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_03_00_46_39_897	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_03_00_46_41_806	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_03_00_46_43_028	Password	duyadmin	Clicked on	Passwords	in PServices	
+G2024_11_03_00_46_47_361	Password	duyadmin	Clicked on	Update	in PServices	
+G2024_11_03_00_46_47_657	PreD	waiting started	1000	ms	in PServices	
+G2024_11_03_00_46_48_959	Password	duyadmin	Process	Update	in PServices	Start Update
+G2024_11_03_00_46_49_969	PostD	finished waiting	1000	ms	in PServices	
+G2024_11_03_00_48_17_626	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_03_00_48_17_637	Back	duyadmin	Clicked on	Back	in PServices	
+G2024_11_03_00_48_18_777	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_03_00_48_20_501	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_03_00_48_21_434	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 230-1-1
+G2024_11_03_00_48_21_710	PreB	waiting started	1000	ms	in PNewID	ID: 230-1-1
+G2024_11_03_00_48_24_013	New ID	duyadmin	Process	Generate newID	in New ID	ID: 230-1-1	Start Generate newID
+G2024_11_03_00_48_24_017	PostB	finished waiting	1000	ms	in PNewID	ID: 230-1-1
+G2024_11_03_00_48_24_318	Users	duyadmin	Clicked on	View/Edit	in PUsers	230-1-1	
+G2024_11_03_00_48_33_226	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_03_00_48_36_476	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_03_00_48_38_192	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_03_00_48_39_460	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_03_00_48_39_739	PreA	waiting started	500	ms	in PServices	
+G2024_11_03_00_48_41_018	Logs	duyadmin	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_03_00_48_42_034	PostA	finished waiting	500	ms	in PServices	
+G2024_11_03_00_49_07_958	Back	duyadmin	Clicked on	Back	in PServices	
+G2024_11_03_00_49_07_968	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_03_00_49_09_101	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_03_00_49_13_089	Users	duyadmin	Clicked on	View/Edit	in PUsers	230-1-1	
+G2024_11_03_00_49_13_989	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 230-1-1
+G2024_11_03_00_49_14_281	PreB	waiting started	1000	ms	in PViewEdit	ID: 230-1-1
+G2024_11_03_00_49_15_559	Update	duyadmin	Process	Update	in PViewEdit	ID: 230-1-1	Start Update
+G2024_11_03_00_49_16_574	PostB	finished waiting	1000	ms	in PViewEdit	ID: 230-1-1
+G2024_11_03_00_49_16_862	Users	duyadmin	Clicked on	View/Edit	in PUsers	230-1-1	
+G2024_11_03_00_49_24_788	Update	duyadmin	Clicked on	Generate User and Password	in PViewEdit	ID: 230-1-1
+G2024_11_03_00_49_25_063	PreB	waiting started	1000	ms	in PViewEdit	ID: 230-1-1
+G2024_11_03_00_49_27_358	PostB	finished waiting	1000	ms	in PViewEdit	ID: 230-1-1
+G2024_11_03_00_49_27_636	Update	duyadmin	Clicked on	Generate User and Password	in PViewEdit	ID: 230-1-1
+G2024_11_03_00_49_27_646	Users	duyadmin	Clicked on	View/Edit	in PUsers	230-1-1	
+G2024_11_03_00_49_30_658	Update	duyadmin	Clicked on	Copy Username and Password	in PViewEdit	ID: 230-1-1
+G2024_11_03_00_49_36_665	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_03_00_49_39_967	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_03_00_49_42_417	Users	duyadmin	Clicked on	View/Edit	in PUsers	teacher01
+G2024_11_03_00_49_42_792	Update	duyadmin	Clicked on	Generate User and Password	in PViewEdit	teacher01
+G2024_11_03_00_49_44_110	PreC	waiting started	3000	ms	in PViewEdit	
+G2024_11_03_00_49_48_295	Users	duyadmin	Process	Update	in PUsers	teacher01
+G2024_11_03_00_49_52_297	PostC	finished waiting	3000	ms	in PViewEdit	
+G2024_11_03_00_50_13_074	Users	duyadmin	Clicked on	Generate Password	in Users	
+G2024_11_03_00_55_18_589	duyadmin	Logged out	by Click			
+G2024_11_03_01_01_29_792	duyadmin	Logged in	116.98.249.37				
+G2024_11_03_01_01_36_012	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_03_01_01_37_628	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_03_01_01_39_077	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_03_01_01_39_597	PreA	waiting started	500	ms	in PServices	
+G2024_11_03_01_01_40_878	Logs	duyadmin	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_03_01_01_41_894	PostA	finished waiting	500	ms	in PServices	
+G2024_11_03_01_03_32_815	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_03_01_03_34_851	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_03_01_03_35_378	PreA	waiting started	500	ms	in PServices	
+G2024_11_03_01_03_36_670	Logs	duyadmin	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_03_01_03_38_341	PostA	finished waiting	500	ms	in PServices	
+G2024_11_03_01_07_23_570	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_03_01_07_25_046	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_03_01_07_25_326	PreA	waiting started	500	ms	in PServices	
+G2024_11_03_01_07_26_632	Logs	duyadmin	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_03_01_07_27_644	PostA	finished waiting	500	ms	in PServices	
+G2024_11_03_01_07_30_900	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_03_01_07_33_094	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_03_01_07_33_353	PreA	waiting started	500	ms	in PServices	
+G2024_11_03_01_07_34_637	Logs	duyadmin	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_03_01_07_35_634	PostA	finished waiting	500	ms	in PServices	
+G2024_11_03_01_09_41_300	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_03_01_09_42_532	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_03_01_09_42_814	PreA	waiting started	500	ms	in PServices	
+G2024_11_03_01_09_44_094	Logs	duyadmin	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_03_01_09_45_106	PostA	finished waiting	500	ms	in PServices	
+G2024_11_03_01_10_31_298	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_03_01_10_33_396	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_03_01_10_33_675	PreA	waiting started	500	ms	in PServices	
+G2024_11_03_01_10_34_951	Logs	duyadmin	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_03_01_10_35_963	PostA	finished waiting	500	ms	in PServices	
+G2024_11_03_01_11_17_618	Back	duyadmin	Clicked on	Back	in PServices	
+G2024_11_03_01_11_17_654	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_03_01_11_19_286	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_03_01_11_21_634	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::Logs	
+G2024_11_03_01_11_41_878	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_03_01_11_41_889	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_03_01_11_43_714	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_11_03_01_11_48_626	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_03_01_11_48_634	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_03_01_11_52_845	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_03_01_12_13_987	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_03_01_12_13_995	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_03_01_12_15_099	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_03_01_12_17_525	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_03_01_13_56_298	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_03_01_13_57_976	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_03_01_13_58_493	PreA	waiting started	500	ms	in PServices	
+G2024_11_03_01_13_59_772	Logs	duyadmin	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_03_01_14_00_775	PostA	finished waiting	500	ms	in PServices	
+G2024_11_03_01_14_54_349	duyadmin	Logged in	116.98.222.198				
+G2024_11_03_01_14_58_818	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_03_01_15_00_081	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_03_01_15_02_240	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_03_01_15_02_823	PreA	waiting started	500	ms	in PServices	
+G2024_11_03_01_15_04_409	Logs	duyadmin	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_03_01_16_52_607	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_03_01_16_54_106	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_03_01_17_04_763	Users	duyadmin	Clicked on	View/Edit	in PUsers	230-1-1	
+G2024_11_03_01_17_06_575	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 230-1-1
+G2024_11_03_01_17_52_633	PreA	waiting started	500	ms	in PServices	
+G2024_11_03_01_17_54_378	Logs	duyadmin	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_03_01_17_56_378	PostA	finished waiting	500	ms	in PServices	
+G2024_11_03_01_19_20_231	duyadmin	Logged in	171.228.161.50				
+G2024_11_03_01_19_28_577	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_03_01_19_33_047	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_03_01_19_38_124	Users	duyadmin	Clicked on	View/Edit	in PUsers	230-1-1	
+G2024_11_03_01_19_40_270	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 230-1-1
+G2024_11_03_01_19_40_553	PreB	waiting started	1000	ms	in PViewEdit	ID: 230-1-1
+G2024_11_03_01_19_41_937	Update	duyadmin	Process	Update	in PViewEdit	ID: 230-1-1	Start Update
+G2024_11_03_01_19_42_956	PostB	finished waiting	1000	ms	in PViewEdit	ID: 230-1-1
+G2024_11_03_01_19_43_299	Users	duyadmin	Clicked on	View/Edit	in PUsers	230-1-1	
+G2024_11_03_01_19_45_319	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_03_01_19_47_435	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_03_01_19_49_177	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_03_01_19_50_668	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_03_01_19_52_317	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_03_01_19_54_676	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_03_01_19_55_060	PreA	waiting started	500	ms	in PServices	
+G2024_11_03_01_19_56_390	Logs	duyadmin	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_03_01_19_57_381	PostA	finished waiting	500	ms	in PServices	
+G2024_11_03_01_21_25_566	admin	Logged in	116.98.222.198				
+G2024_11_03_01_21_28_462	Services	admin	Clicked on	Services	in P0120	
+G2024_11_03_01_21_57_649	duyadmin	Logged out	by Click			
+G2024_11_03_01_27_05_006	duyadmin	Logged in	116.98.249.37				
+G2024_11_03_01_27_07_335	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_03_01_27_08_503	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_03_01_27_10_223	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_03_01_27_10_481	PreA	waiting started	500	ms	in PServices	
+G2024_11_03_01_27_11_762	Logs	duyadmin	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_03_01_27_12_763	PostA	finished waiting	500	ms	in PServices	
+G2024_11_03_01_28_20_839	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_03_01_28_22_177	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_03_01_28_22_480	PreA	waiting started	500	ms	in PServices	
+G2024_11_03_01_28_23_767	Logs	duyadmin	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_03_01_28_24_751	PostA	finished waiting	500	ms	in PServices	
+G2024_11_03_01_29_14_937	admin	Logged out	by Click			
+G2024_11_03_01_34_18_739	duyadmin	Logged out	by Click			
+G2024_11_03_04_18_22_389	duyadmin	Logged out	timeout			
+G2024_11_03_04_18_22_488	duyadmin	Logged out	by Click			
+G2024_11_03_04_18_23_004	duyadmin	Logged out	by Click			
+G2024_11_03_05_55_29_427		Unsuccessful login	216.115.254.184	admin3			
+G2024_11_03_05_55_41_424		Unsuccessful login	216.115.254.184	admin3			
+G2024_11_03_05_55_51_766	admin	Logged in	216.115.254.184				
+G2024_11_03_05_55_55_896	Services	admin	Clicked on	Services	in P0120	
+G2024_11_03_05_55_57_534	Password	admin	Clicked on	Passwords	in PServices	
+G2024_11_03_05_56_38_348	Password	admin	Clicked on	Update	in PServices	
+G2024_11_03_05_56_38_545	PreD	waiting started	1000	ms	in PServices	
+G2024_11_03_05_56_39_695	Password	admin	Process	Update	in PServices
+G2024_11_03_05_56_40_693	PostD	finished waiting	1000	ms	in PServices	
+G2024_11_03_05_56_42_874	Password	admin	Clicked on	Update	in PServices	
+G2024_11_03_05_56_42_994	PreD	waiting started	1000	ms	in PServices	
+G2024_11_03_05_56_44_119	Password	admin	Process	Update	in PServices
+G2024_11_03_05_56_45_125	PostD	finished waiting	1000	ms	in PServices	
+G2024_11_03_05_56_46_547	Password	admin	Clicked on	Update	in PServices	
+G2024_11_03_05_56_46_636	PreD	waiting started	1000	ms	in PServices	
+G2024_11_03_05_56_47_761	Password	admin	Process	Update	in PServices
+G2024_11_03_05_56_48_769	PostD	finished waiting	1000	ms	in PServices	
+G2024_11_03_05_56_50_724	Password	admin	Clicked on	Update	in PServices	
+G2024_11_03_05_56_50_836	PreD	waiting started	1000	ms	in PServices	
+G2024_11_03_05_56_51_961	Password	admin	Process	Update	in PServices
+G2024_11_03_05_56_52_967	PostD	finished waiting	1000	ms	in PServices	
+G2024_11_03_05_56_55_577	Password	admin	Clicked on	Update	in PServices	
+G2024_11_03_05_56_55_690	PreD	waiting started	1000	ms	in PServices	
+G2024_11_03_05_56_56_802	Password	admin	Process	Update	in PServices
+G2024_11_03_05_56_57_809	PostD	finished waiting	1000	ms	in PServices	
+G2024_11_03_05_57_00_905	Password	admin	Clicked on	Update	in PServices	
+G2024_11_03_05_57_01_017	PreD	waiting started	1000	ms	in PServices	
+G2024_11_03_05_57_02_140	Password	admin	Process	Update	in PServices
+G2024_11_03_05_57_03_145	PostD	finished waiting	1000	ms	in PServices	
+G2024_11_03_05_57_07_228	Back	admin	Clicked on	Back	in PServices	
+G2024_11_03_05_57_07_269	Services	admin	Clicked on	Services	in P0120	
+G2024_11_03_05_57_09_364	Logs	admin	Clicked on	Logs	in PServices	
+G2024_11_03_05_57_13_062	Logs	admin	Clicked on	Download	in Logs	
+G2024_11_03_05_57_13_176	PreA	waiting started	500	ms	in PServices	
+G2024_11_03_05_57_14_304	Logs	admin	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_03_05_57_15_313	PostA	finished waiting	500	ms	in PServices	
+G2024_11_03_05_58_37_051	Services	admin	Clicked on	Services	in P0120	
+G2024_11_03_05_58_37_062	Back	admin	Clicked on	Back	in PServices	
+G2024_11_03_05_58_38_321	Back	admin	Clicked on	Back	in P0120	
+G2024_11_03_05_58_41_224	Services	admin	Clicked on	Services	in P0120	
+G2024_11_03_05_58_42_710	Config	admin	Clicked on	Config	in PServices	
+G2024_11_03_05_58_45_318	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_03_06_00_01_036	View/Edit	admin	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_03_06_00_01_144	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_03_06_00_20_298	Back	admin	Clicked on	Back	in PConfig	
+G2024_11_03_06_00_20_393	Config	admin	Clicked on	Config	in PServices	
+G2024_11_03_06_00_26_859	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_11_03_06_00_41_457	Back	admin	Clicked on	Back	in PConfig	
+G2024_11_03_06_00_41_487	Config	admin	Clicked on	Config	in PServices	
+G2024_11_03_06_00_43_233	Services	admin	Clicked on	Services	in P0120	
+G2024_11_03_06_00_50_229	Logs	admin	Clicked on	Logs	in PServices	
+G2024_11_03_07_45_26_934	Logs	admin	Clicked on	Download	in Logs	
+G2024_11_03_07_45_26_967	PreA	waiting started	5000	ms	in PServices	
+G2024_11_03_11_49_42_086		Unsuccessful login	216.115.254.184	admin2			
+G2024_11_03_11_49_57_226	admin2	Logged in	216.115.254.184				
+G2024_11_03_11_50_01_227	Services	admin2	Clicked on	Services	in P0120	
+G2024_11_03_11_50_02_962	Logs	admin2	Clicked on	Logs	in PServices	
+G2024_11_03_11_50_07_607	Logs	admin2	Clicked on	Download	in Logs	
+G2024_11_03_11_51_10_130	admin3	Logged in	65.68.108.142				
+G2024_11_03_11_51_24_231	admin3	Logged out	by Click			
+G2024_11_03_11_52_04_533	admin4	Logged in	65.68.108.142				
+G2024_11_03_11_52_09_532	Services	admin4	Clicked on	Services	in P0120	
+G2024_11_03_11_52_11_989	Logs	admin4	Clicked on	Logs	in PServices	
+G2024_11_03_11_52_20_282	Back	admin4	Clicked on	Back	in PServices	
+G2024_11_03_11_52_20_289	Services	admin4	Clicked on	Services	in P0120	
+G2024_11_03_11_52_24_892	Back	admin4	Clicked on	Back	in P0120	
+G2024_11_03_11_52_30_652	Users	admin4	Clicked on	View/Edit	in PUsers	230-1-1	
+G2024_11_03_11_52_43_252	Update	admin4	Clicked on	Update	in PViewEdit	ID: 230-1-1
+G2024_11_03_12_07_10_062	admin2	Logged out	by Click			
+G2024_11_03_15_03_55_473	admin	Logged in	216.115.254.184				
+G2024_11_03_15_03_59_564	Services	admin	Clicked on	Services	in P0120	
+G2024_11_03_15_04_06_811	Back	admin	Clicked on	Back	in P0120	
+G2024_11_03_15_04_11_385	Users	admin	Clicked on	Users	in P0120	
+G2024_11_03_15_04_31_329	Update	admin	Clicked on	Copy	teacher01  aaa@a.com
+G2024_11_03_15_04_56_675	Users	admin	Clicked on	View/Edit	in PUsers	teacher01
+G2024_11_03_15_04_56_865	Update	admin	Clicked on	Generate User and Password	in PViewEdit	teacher01
+G2024_11_03_15_05_03_158	Users	admin	Clicked on	Generate Password	in Users	
+G2024_11_03_15_22_39_190	admin4	Logged in	216.115.254.184				
+G2024_11_03_15_22_57_479	Services	admin4	Clicked on	Services	in P0120	
+G2024_11_03_15_22_59_782	Config	admin4	Clicked on	Config	in PServices	
+G2024_11_03_15_23_04_709	View/Edit	admin4	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_03_15_24_01_036	View/Edit	admin4	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_03_15_24_01_130	View/Edit	admin4	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_03_15_24_05_156	Back	admin4	Clicked on	Back	in PConfig	
+G2024_11_03_15_24_05_162	Config	admin4	Clicked on	Config	in PServices	
+G2024_11_03_15_24_21_154	View/Edit	admin4	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_03_15_24_33_826	Back	admin4	Clicked on	Back	in PConfig	
+G2024_11_03_15_24_33_842	Config	admin4	Clicked on	Config	in PServices	
+G2024_11_03_15_24_35_185	Services	admin4	Clicked on	Services	in P0120	
+G2024_11_03_15_24_37_159	Back	admin4	Clicked on	Back	in P0120	
+G2024_11_03_15_24_41_150	Services	admin4	Clicked on	Services	in P0120	
+G2024_11_03_15_24_42_792	Config	admin4	Clicked on	Config	in PServices	
+G2024_11_03_15_24_47_853	Services	admin4	Clicked on	Services	in P0120	
+G2024_11_03_15_24_51_058	Logs	admin4	Clicked on	Logs	in PServices	
+G2024_11_03_15_24_56_765	Logs	admin4	Clicked on	Download	in Logs	
+G2024_11_03_15_27_29_268	Logs	admin4	Clicked on	Download	in Logs	
+G2024_11_03_15_28_10_329	admin	Logged out	by Click			
+G2024_11_03_15_31_22_705	admin3	Logged in	216.115.254.184				
+G2024_11_03_15_31_34_387	admin3	Logged out	by Click			
+G2024_11_03_15_31_53_448	admin3	Logged in	216.115.254.184				
+G2024_11_03_15_31_57_499	Services	admin3	Clicked on	Services	in P0120	
+G2024_11_03_15_32_01_232	Config	admin3	Clicked on	Config	in PServices	
+G2024_11_03_15_32_04_584	View/Edit	admin3	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_03_15_32_09_926	Back	admin3	Clicked on	Back	in PConfig	
+G2024_11_03_15_32_10_020	Config	admin3	Clicked on	Config	in PServices	
+G2024_11_03_15_32_12_248	Services	admin3	Clicked on	Services	in P0120	
+G2024_11_03_15_32_13_915	Logs	admin3	Clicked on	Logs	in PServices	
+G2024_11_03_15_32_17_755	Logs	admin3	Clicked on	Download	in Logs	
+G2024_11_03_15_33_18_919	Logs	admin3	Clicked on	Logs	in PServices	
+G2024_11_03_15_33_25_856	Back	admin3	Clicked on	Back	in PServices	
+G2024_11_03_15_33_25_911	Services	admin3	Clicked on	Services	in P0120	
+G2024_11_03_15_33_34_321	Password	admin3	Clicked on	Passwords	in PServices	
+G2024_11_03_15_36_55_963	Password	admin3	Clicked on	Update	in PServices	
+G2024_11_03_15_37_28_637	admin4	Logged out	timeout			
+G2024_11_03_15_39_49_181	Password	admin3	Clicked on	Update	in PServices	
+G2024_11_03_15_45_21_376	admin3	Logged out	timeout			
+G2024_11_03_15_47_04_050		Unsuccessful login	216.115.254.184	admin3			
+G2024_11_03_15_47_16_544	admin	Logged in	216.115.254.184				
+G2024_11_03_15_47_27_968	Users	admin	Clicked on	View/Edit	in PUsers	180-1-1	
+G2024_11_03_15_47_31_131	Back	admin	Clicked on	Back	in P0120	
+G2024_11_03_15_49_24_872	Users	admin	Clicked on	Users	in P0120	
+G2024_11_03_15_49_55_067	Users	admin	Clicked on	View/Edit	in PUsers	teacherassociate013
+G2024_11_03_15_49_55_204	Update	admin	Clicked on	Generate User and Password	in PViewEdit	teacherassociate013
+G2024_11_03_15_50_04_984	Back	admin	Clicked on	Back	in PUsers	
+G2024_11_03_15_50_05_069	Users	admin	Clicked on	Users	in P0120	
+G2024_11_03_15_53_00_112	Users	admin	Clicked on	View/Edit	in PUsers	196-1-1	
+G2024_11_03_15_53_02_139	Back	admin	Clicked on	Back	in P0120	
+G2024_11_03_15_53_35_944	Users	admin	Clicked on	View/Edit	in PUsers	196-1-1	
+G2024_11_03_15_53_37_946	Back	admin	Clicked on	Back	in P0120	
+G2024_11_03_16_05_10_473	admin	Logged out	by Click			
+G2024_11_03_18_28_44_926	Users	admin4	Clicked on	View/Edit	in PUsers	230-1-1	
+G2024_11_03_18_28_50_679	Back	admin4	Clicked on	Back	in P0120	
+G2024_11_03_18_28_55_417	Users	admin4	Clicked on	View/Edit	in PUsers	230-1-1	
+G2024_11_03_18_29_15_845	admin4	Logged out	by Click			
+G2024_11_03_18_29_15_944	admin4	Logged out	by Click			
+G2024_11_03_18_29_15_956	admin4	Logged out	timeout			
+G2024_11_04_00_52_54_875	admin	Logged in	216.115.254.184				
+G2024_11_04_00_53_10_970	Users	admin	Clicked on	Users	in P0120	
+G2024_11_04_00_53_41_679	Update	admin	Clicked on	Copy	teacherassociate011  hehe@a.com
+G2024_11_04_01_10_33_851	Users	admin	Clicked on	View/Edit	in PUsers	228-1-1	
+G2024_11_04_01_13_50_973	Update	admin	Clicked on	Update	in PViewEdit	ID: 228-1-1
+G2024_11_04_01_20_55_408	admin	Logged out	by Click			
+G2024_11_04_01_22_09_636	controller1	Logged in	216.115.254.184				
+G2024_11_04_01_22_17_455	Users	controller1	Clicked on	View/Edit	in PUsers	226-1-1	
+G2024_11_04_01_23_09_129	Back	controller1	Clicked on	Back	in P0120	
+G2024_11_04_01_23_12_694	Services	controller1	Clicked on	Services	in P0120	
+G2024_11_04_01_23_14_857	Logs	controller1	Clicked on	Logs	in PServices	
+G2024_11_04_01_23_17_486	Logs	controller1	Clicked on	Download	in Logs	
+G2024_11_04_01_25_47_722	controller1	Logged out	by Click			
+G2024_11_04_07_01_14_108	duyadmin	Logged in	116.98.249.235				
+G2024_11_04_07_01_17_438	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_04_07_01_28_129	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_04_07_01_32_954	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_07_02_39_994	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_07_18_19_061	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_04_07_18_19_231	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_04_07_18_20_399	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_04_07_18_40_189	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_04_07_18_54_780	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_07_19_06_646	View/Edit	duyadmin	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_07_19_06_923	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_07_19_31_918	View/Edit	duyadmin	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_07_19_32_188	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_07_19_34_067	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_04_07_19_34_343	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_04_07_19_35_362	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_04_07_19_37_034	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_07_19_38_811	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_07_19_54_467	duyadmin	Logged in	116.98.249.235				
+G2024_11_04_07_19_58_384	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_07_20_00_130	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 231-1-1
+G2024_11_04_07_20_00_425	PreB	waiting started	5	ms	in PNewID	ID: 231-1-1
+G2024_11_04_07_20_02_097	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 231-1-1
+G2024_11_04_07_20_02_377	PreB	waiting started	5	ms	in PNewID	ID: 231-1-1
+G2024_11_04_07_20_02_719	PostB	finished waiting	5	ms	in PNewID	ID: 231-1-1
+G2024_11_04_07_20_02_738	New ID	duyadmin	Process	Generate newID	in New ID	ID: 231-1-1	
+G2024_11_04_07_20_03_035	Users	duyadmin	Clicked on	View/Edit	in PUsers	231-1-1	
+G2024_11_04_07_20_04_677	PostB	finished waiting	5	ms	in PNewID	ID: 231-1-1
+G2024_11_04_07_20_04_697	New ID	duyadmin	Process	Generate newID	in New ID	ID: 232-1-1	
+G2024_11_04_07_20_04_965	Users	duyadmin	Clicked on	View/Edit	in PUsers	231-1-1	
+G2024_11_04_07_20_07_478	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_07_20_09_611	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_04_07_20_21_688	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_04_07_20_23_697	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_07_21_25_707	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_07_21_28_845	View/Edit	duyadmin	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_07_21_29_152	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_07_21_31_881	View/Edit	duyadmin	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_07_21_32_167	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_07_21_35_994	View/Edit	duyadmin	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_07_21_36_287	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_07_21_39_102	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_04_07_21_39_355	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_04_07_21_40_671	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_04_07_21_43_384	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_04_07_21_46_399	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_07_21_52_995	View/Edit	duyadmin	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_07_21_53_273	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_07_21_54_772	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_04_07_21_54_796	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_04_07_21_55_860	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_04_07_21_56_926	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_07_21_58_727	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_07_22_02_784	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_07_22_04_733	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_07_22_06_303	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 233-1-1
+G2024_11_04_07_22_06_611	PreB	waiting started	10000	ms	in PNewID	ID: 233-1-1
+G2024_11_04_07_22_07_972	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 233-1-1
+G2024_11_04_07_22_08_260	PreB	waiting started	10000	ms	in PNewID	ID: 233-1-1
+G2024_11_04_07_22_17_944	New ID	duyadmin	Process	Generate newID	in New ID	ID: 233-1-1	
+G2024_11_04_07_22_19_569	New ID	duyadmin	Process	Generate newID	in New ID	ID: 234-1-1	
+G2024_11_04_07_22_26_933	PostB	finished waiting	10000	ms	in PNewID	ID: 233-1-1
+G2024_11_04_07_22_27_261	Users	duyadmin	Clicked on	View/Edit	in PUsers	233-1-1	
+G2024_11_04_07_22_28_763	PostB	finished waiting	10000	ms	in PNewID	ID: 233-1-1
+G2024_11_04_07_22_29_059	Users	duyadmin	Clicked on	View/Edit	in PUsers	234-1-1	
+G2024_11_04_07_22_47_656	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_07_22_49_872	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_07_22_50_904	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_07_22_52_603	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_07_22_53_648	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 235-1-1
+G2024_11_04_07_22_54_229	PreB	waiting started	10000	ms	in PNewID	ID: 235-1-1
+G2024_11_04_07_22_54_732	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 235-1-1
+G2024_11_04_07_22_55_016	PreB	waiting started	10000	ms	in PNewID	ID: 235-1-1
+G2024_11_04_07_23_05_549	New ID	duyadmin	Process	Generate newID	in New ID	ID: 235-1-1	
+G2024_11_04_07_23_06_341	New ID	duyadmin	Process	Generate newID	in New ID	ID: 236-1-1	
+G2024_11_04_07_23_14_542	PostB	finished waiting	10000	ms	in PNewID	ID: 235-1-1
+G2024_11_04_07_23_14_865	Users	duyadmin	Clicked on	View/Edit	in PUsers	235-1-1	
+G2024_11_04_07_23_15_338	PostB	finished waiting	10000	ms	in PNewID	ID: 235-1-1
+G2024_11_04_07_23_15_633	Users	duyadmin	Clicked on	View/Edit	in PUsers	236-1-1	
+G2024_11_04_07_23_49_188	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_07_23_51_361	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_07_23_52_149	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_07_23_53_428	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 237-1-1
+G2024_11_04_07_23_53_728	PreB	waiting started	10000	ms	in PNewID	ID: 237-1-1
+G2024_11_04_07_24_05_037	New ID	duyadmin	Process	Generate newID	in New ID	ID: 237-1-1	
+G2024_11_04_07_24_14_036	PostB	finished waiting	10000	ms	in PNewID	ID: 237-1-1
+G2024_11_04_07_24_14_363	Users	duyadmin	Clicked on	View/Edit	in PUsers	237-1-1	
+G2024_11_04_07_24_44_751	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 237-1-1
+G2024_11_04_07_24_45_017	PreB	waiting started	10000	ms	in PNewID	ID: 237-1-1
+G2024_11_04_07_24_47_941	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 237-1-1
+G2024_11_04_07_24_48_472	PreB	waiting started	10000	ms	in PNewID	ID: 237-1-1
+G2024_11_04_07_24_56_313	New ID	duyadmin	Process	Generate newID	in New ID	ID: 238-1-1	
+G2024_11_04_07_24_59_787	New ID	duyadmin	Process	Generate newID	in New ID	ID: 239-1-1	
+G2024_11_04_07_25_05_339	PostB	finished waiting	10000	ms	in PNewID	ID: 237-1-1
+G2024_11_04_07_25_05_649	Users	duyadmin	Clicked on	View/Edit	in PUsers	238-1-1	
+G2024_11_04_07_25_08_778	PostB	finished waiting	10000	ms	in PNewID	ID: 237-1-1
+G2024_11_04_07_25_09_075	Users	duyadmin	Clicked on	View/Edit	in PUsers	239-1-1	
+G2024_11_04_07_25_55_140	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_07_26_33_901	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_07_26_35_133	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 240-1-1
+G2024_11_04_07_26_35_438	PreB	waiting started	10000	ms	in PNewID	ID: 240-1-1
+G2024_11_04_07_26_46_757	New ID	duyadmin	Process	Generate newID	in New ID	ID: 240-1-1	
+G2024_11_04_07_26_55_886	PostB	finished waiting	10000	ms	in PNewID	ID: 240-1-1
+G2024_11_04_07_26_56_245	Users	duyadmin	Clicked on	View/Edit	in PUsers	240-1-1	
+G2024_11_04_07_26_58_757	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 240-1-1
+G2024_11_04_07_26_59_022	PreB	waiting started	10000	ms	in PNewID	ID: 240-1-1
+G2024_11_04_07_27_10_311	New ID	duyadmin	Process	Generate newID	in New ID	ID: 241-1-1	
+G2024_11_04_07_27_19_307	PostB	finished waiting	10000	ms	in PNewID	ID: 240-1-1
+G2024_11_04_07_27_19_596	Users	duyadmin	Clicked on	View/Edit	in PUsers	241-1-1	
+G2024_11_04_07_29_34_772	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_07_29_36_884	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_07_29_38_406	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 242-1-1
+G2024_11_04_07_29_38_716	PreB	waiting started	10000	ms	in PNewID	ID: 242-1-1
+G2024_11_04_07_29_45_567	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 240-1-1
+G2024_11_04_07_29_45_855	PreB	waiting started	10000	ms	in PNewID	ID: 240-1-1
+G2024_11_04_07_29_50_031	New ID	duyadmin	Process	Generate newID	in New ID	ID: 242-1-1	
+G2024_11_04_07_29_57_154	New ID	duyadmin	Process	Generate newID	in New ID	ID: 243-1-1	
+G2024_11_04_07_29_59_027	PostB	finished waiting	10000	ms	in PNewID	ID: 242-1-1
+G2024_11_04_07_29_59_352	Users	duyadmin	Clicked on	View/Edit	in PUsers	242-1-1	
+G2024_11_04_07_30_06_146	PostB	finished waiting	10000	ms	in PNewID	ID: 240-1-1
+G2024_11_04_07_30_06_443	Users	duyadmin	Clicked on	View/Edit	in PUsers	243-1-1	
+G2024_11_04_07_30_55_121	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_07_31_04_753	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_07_31_14_388	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_07_31_17_039	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_07_31_18_954	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 244-1-1
+G2024_11_04_07_31_19_275	PreB	waiting started	10000	ms	in PNewID	ID: 244-1-1
+G2024_11_04_07_31_21_832	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 244-1-1
+G2024_11_04_07_31_22_119	PreB	waiting started	10000	ms	in PNewID	ID: 244-1-1
+G2024_11_04_07_31_30_594	New ID	duyadmin	Process	Generate newID	in New ID	ID: 244-1-1	
+G2024_11_04_07_31_33_429	New ID	duyadmin	Process	Generate newID	in New ID	ID: 245-1-1	
+G2024_11_04_07_31_39_583	PostB	finished waiting	10000	ms	in PNewID	ID: 244-1-1
+G2024_11_04_07_31_39_910	Users	duyadmin	Clicked on	View/Edit	in PUsers	244-1-1	
+G2024_11_04_07_31_42_419	PostB	finished waiting	10000	ms	in PNewID	ID: 244-1-1
+G2024_11_04_07_31_42_729	Users	duyadmin	Clicked on	View/Edit	in PUsers	245-1-1	
+G2024_11_04_07_33_03_420	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_07_33_05_368	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_07_33_08_706	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 246-1-1
+G2024_11_04_07_33_09_025	PreB	waiting started	10000	ms	in PNewID	ID: 246-1-1
+G2024_11_04_07_33_20_361	New ID	duyadmin	Process	Generate newID	in New ID	ID: 246-1-1	
+G2024_11_04_07_33_29_430	PostB	finished waiting	10000	ms	in PNewID	ID: 246-1-1
+G2024_11_04_07_33_29_796	Users	duyadmin	Clicked on	View/Edit	in PUsers	246-1-1	
+G2024_11_04_07_38_40_660	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_07_38_42_342	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_07_38_57_210	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 247-1-1
+G2024_11_04_07_38_57_497	PreB	waiting started	10000	ms	in PNewID	ID: 247-1-1
+G2024_11_04_07_39_08_908	New ID	duyadmin	Process	Generate newID	in New ID	ID: 247-1-1	
+G2024_11_04_07_39_17_814	PostB	finished waiting	10000	ms	in PNewID	ID: 247-1-1
+G2024_11_04_07_39_18_158	Users	duyadmin	Clicked on	View/Edit	in PUsers	247-1-1	
+G2024_11_04_07_40_34_722	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_07_40_36_663	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_07_40_38_049	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 248-1-1
+G2024_11_04_07_41_43_392	duyadmin	Logged out	timeout			
+G2024_11_04_07_41_43_665	duyadmin	Logged out	by Click			
+G2024_11_04_07_42_19_142	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_07_42_20_493	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 248-1-1
+G2024_11_04_07_43_01_792	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_07_43_02_988	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 248-1-1
+G2024_11_04_07_43_27_917	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 248-1-1
+G2024_11_04_08_13_51_169	Back	duyadmin	Clicked on	Back	in PNewID	
+G2024_11_04_08_13_54_762	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_04_08_13_56_183	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_04_08_13_59_405	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_08_14_11_446	View/Edit	duyadmin	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_08_14_11_729	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_08_26_21_428	duyadmin	Logged out	by Click			
+G2024_11_04_08_47_35_529	duyadmin	Logged in	116.98.249.235				
+G2024_11_04_08_47_38_646	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_08_47_40_126	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 248-1-1
+G2024_11_04_08_48_11_687	PreB	waiting started	10000	ms	in PNewID	ID: 248-1-1
+G2024_11_04_08_48_23_025	New ID	duyadmin	Process	Generate newID	in New ID	ID: 248-1-1	
+G2024_11_04_08_48_32_026	PostB	finished waiting	10000	ms	in PNewID	ID: 248-1-1
+G2024_11_04_08_48_32_390	Users	duyadmin	Clicked on	View/Edit	in PUsers	248-1-1	
+G2024_11_04_08_50_26_397	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_08_50_28_922	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_08_50_30_723	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 249-1-1
+G2024_11_04_08_50_31_120	PreB	waiting started	10000	ms	in PNewID	ID: 249-1-1
+G2024_11_04_08_50_42_426	New ID	duyadmin	Process	Generate newID	in New ID	ID: 249-1-1	
+G2024_11_04_08_50_51_406	PostB	finished waiting	10000	ms	in PNewID	ID: 249-1-1
+G2024_11_04_08_50_51_738	Users	duyadmin	Clicked on	View/Edit	in PUsers	249-1-1	
+G2024_11_04_08_53_37_269	Users	duyadmin	Clicked on	View/Edit	in PUsers	249-1-1	
+G2024_11_04_09_01_29_676	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_09_01_32_048	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_09_01_33_337	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 250-1-1
+G2024_11_04_09_01_33_604	PreB	waiting started	10000	ms	in PNewID	ID: 250-1-1
+G2024_11_04_09_01_45_088	New ID	duyadmin	Process	Generate newID	in New ID	ID: 250-1-1	
+G2024_11_04_09_01_54_083	PostB	finished waiting	10000	ms	in PNewID	ID: 250-1-1
+G2024_11_04_09_01_54_384	Users	duyadmin	Clicked on	View/Edit	in PUsers	250-1-1	
+G2024_11_04_09_05_33_447	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_09_05_35_330	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_09_05_36_593	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 251-1-1
+G2024_11_04_09_05_36_948	PreB	waiting started	10000	ms	in PNewID	ID: 251-1-1
+G2024_11_04_09_05_49_099	New ID	duyadmin	Process	Generate newID	in New ID	ID: 251-1-1	
+G2024_11_04_09_06_03_083	PostB	finished waiting	10000	ms	in PNewID	ID: 251-1-1
+G2024_11_04_09_06_03_415	Users	duyadmin	Clicked on	View/Edit	in PUsers	251-1-1	
+G2024_11_04_09_18_14_512	duyadmin	Logged in	171.225.109.192				
+G2024_11_04_09_18_18_575	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_04_09_18_22_794	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_04_09_18_24_756	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_09_18_41_112	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_04_09_18_41_118	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_04_09_18_42_215	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_04_09_18_43_434	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_09_18_45_124	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_09_18_46_539	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 252-1-1
+G2024_11_04_09_18_46_873	PreB	waiting started	10000	ms	in PNewID	ID: 252-1-1
+G2024_11_04_09_18_53_047	duyadmin	Logged in	171.225.109.192				
+G2024_11_04_09_18_55_564	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_09_18_58_174	New ID	duyadmin	Process	Generate newID	in New ID	ID: 252-1-1	
+G2024_11_04_09_19_07_170	PostB	finished waiting	10000	ms	in PNewID	ID: 252-1-1
+G2024_11_04_09_19_07_533	Users	duyadmin	Clicked on	View/Edit	in PUsers	252-1-1	
+G2024_11_04_09_19_21_434	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_09_19_23_318	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_09_19_24_769	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 253-1-1
+G2024_11_04_09_19_25_057	PreB	waiting started	10000	ms	in PNewID	ID: 253-1-1
+G2024_11_04_09_19_26_164	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 252-1-1
+G2024_11_04_09_19_36_360	New ID	duyadmin	Process	Generate newID	in New ID	ID: 253-1-1	
+G2024_11_04_09_19_39_791	PreB	waiting started	10000	ms	in PNewID	ID: 252-1-1
+G2024_11_04_09_19_45_366	PostB	finished waiting	10000	ms	in PNewID	ID: 253-1-1
+G2024_11_04_09_19_45_674	Users	duyadmin	Clicked on	View/Edit	in PUsers	253-1-1	
+G2024_11_04_09_19_48_004	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_09_19_49_849	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_04_09_19_51_087	New ID	duyadmin	Process	Generate newID	in New ID	ID: 254-1-1	
+G2024_11_04_09_19_51_967	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_04_09_19_55_017	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_09_20_00_090	PostB	finished waiting	10000	ms	in PNewID	ID: 252-1-1
+G2024_11_04_09_20_00_375	Users	duyadmin	Clicked on	View/Edit	in PUsers	254-1-1	
+G2024_11_04_09_20_03_864	View/Edit	duyadmin	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_09_20_04_179	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_09_20_05_480	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_04_09_20_05_486	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_04_09_20_07_005	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_04_09_20_09_440	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_09_20_12_334	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_09_20_14_687	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 255-1-1
+G2024_11_04_09_20_14_975	PreB	waiting started	10000	ms	in PNewID	ID: 255-1-1
+G2024_11_04_09_20_16_126	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_09_20_17_643	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_09_20_18_586	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 255-1-1
+G2024_11_04_09_20_26_282	New ID	duyadmin	Process	Generate newID	in New ID	ID: 255-1-1	
+G2024_11_04_09_20_31_456	PreB	waiting started	10000	ms	in PNewID	ID: 255-1-1
+G2024_11_04_09_20_35_269	PostB	finished waiting	10000	ms	in PNewID	ID: 255-1-1
+G2024_11_04_09_20_35_569	Users	duyadmin	Clicked on	View/Edit	in PUsers	255-1-1	
+G2024_11_04_09_20_39_739	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_09_20_42_752	New ID	duyadmin	Process	Generate newID	in New ID	ID: 256-1-1	
+G2024_11_04_09_20_43_168	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_04_09_20_44_540	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_04_09_20_47_161	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_09_20_51_481	View/Edit	duyadmin	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_09_20_51_780	PostB	finished waiting	10000	ms	in PNewID	ID: 255-1-1
+G2024_11_04_09_20_51_802	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_09_20_52_325	Users	duyadmin	Clicked on	View/Edit	in PUsers	256-1-1	
+G2024_11_04_09_20_53_171	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_04_09_20_53_175	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_04_09_20_54_515	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_04_09_20_55_554	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_09_20_56_749	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_09_20_57_612	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_09_20_58_876	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_09_21_01_018	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 257-1-1
+G2024_11_04_09_21_01_310	PreB	waiting started	10000	ms	in PNewID	ID: 257-1-1
+G2024_11_04_09_21_03_713	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 257-1-1
+G2024_11_04_09_21_04_115	PreB	waiting started	10000	ms	in PNewID	ID: 257-1-1
+G2024_11_04_09_21_12_608	New ID	duyadmin	Process	Generate newID	in New ID	ID: 257-1-1	
+G2024_11_04_09_21_15_396	New ID	duyadmin	Process	Generate newID	in New ID	ID: 258-1-1	
+G2024_11_04_09_21_21_603	PostB	finished waiting	10000	ms	in PNewID	ID: 257-1-1
+G2024_11_04_09_21_21_909	Users	duyadmin	Clicked on	View/Edit	in PUsers	257-1-1	
+G2024_11_04_09_21_23_903	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_09_21_24_390	PostB	finished waiting	10000	ms	in PNewID	ID: 257-1-1
+G2024_11_04_09_21_24_707	Users	duyadmin	Clicked on	View/Edit	in PUsers	258-1-1	
+G2024_11_04_09_21_25_931	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_09_21_27_678	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_09_21_29_548	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_09_21_30_978	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 259-1-1
+G2024_11_04_09_21_31_277	PreB	waiting started	10000	ms	in PNewID	ID: 259-1-1
+G2024_11_04_09_21_32_092	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 259-1-1
+G2024_11_04_09_21_32_379	PreB	waiting started	10000	ms	in PNewID	ID: 259-1-1
+G2024_11_04_09_21_42_631	New ID	duyadmin	Process	Generate newID	in New ID	ID: 259-1-1	
+G2024_11_04_09_21_43_671	New ID	duyadmin	Process	Generate newID	in New ID	ID: 260-1-1	
+G2024_11_04_09_21_52_126	PostB	finished waiting	10000	ms	in PNewID	ID: 259-1-1
+G2024_11_04_09_21_52_489	Users	duyadmin	Clicked on	View/Edit	in PUsers	259-1-1	
+G2024_11_04_09_21_52_666	PostB	finished waiting	10000	ms	in PNewID	ID: 259-1-1
+G2024_11_04_09_21_52_989	Users	duyadmin	Clicked on	View/Edit	in PUsers	260-1-1	
+G2024_11_04_09_21_56_844	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_09_21_57_538	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_09_21_58_868	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_09_21_59_726	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_09_34_55_536	duyadmin	Logged out	timeout			
+G2024_11_04_09_34_55_768	duyadmin	Logged out	by Click			
+G2024_11_04_09_37_21_448	duyadmin	Logged out	by Click			
+G2024_11_04_09_38_20_037	duyadmin	Logged in	171.225.109.192				
+G2024_11_04_09_38_23_841	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_09_38_25_072	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 261-1-1
+G2024_11_04_09_38_25_655	PreB	waiting started	10000	ms	in PNewID	ID: 261-1-1
+G2024_11_04_09_38_36_985	New ID	duyadmin	Process	Generate newID	in New ID	ID: 261-1-1	
+G2024_11_04_09_38_40_283	duyadmin	Logged in	171.225.109.192				
+G2024_11_04_09_38_42_705	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_09_38_44_036	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 262-1-1
+G2024_11_04_09_38_45_983	PostB	finished waiting	10000	ms	in PNewID	ID: 261-1-1
+G2024_11_04_09_38_46_330	Users	duyadmin	Clicked on	View/Edit	in PUsers	261-1-1	
+G2024_11_04_09_38_46_911	PreB	waiting started	10000	ms	in PNewID	ID: 262-1-1
+G2024_11_04_09_38_58_370	New ID	duyadmin	Process	Generate newID	in New ID	ID: 262-1-1	
+G2024_11_04_09_39_07_222	PostB	finished waiting	10000	ms	in PNewID	ID: 262-1-1
+G2024_11_04_09_39_07_521	Users	duyadmin	Clicked on	View/Edit	in PUsers	262-1-1	
+G2024_11_04_09_39_08_786	admin	Logged in	216.115.254.184				
+G2024_11_04_09_39_12_473	Services	admin	Clicked on	Services	in P0120	
+G2024_11_04_09_39_14_399	Config	admin	Clicked on	Config	in PServices	
+G2024_11_04_09_39_18_818	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_09_45_02_055	View/Edit	admin	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_09_45_02_183	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_09_45_42_470	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_09_45_44_239	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_09_45_44_843	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_09_45_46_050	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 263-1-1
+G2024_11_04_09_45_46_321	PreB	waiting started	10000	ms	in PNewID	ID: 263-1-1
+G2024_11_04_09_45_47_493	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_09_45_48_506	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 263-1-1
+G2024_11_04_09_45_56_444	View/Edit	admin	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_09_45_56_547	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_09_45_57_004	PreB	waiting started	10000	ms	in PNewID	ID: 263-1-1
+G2024_11_04_09_45_57_638	New ID	duyadmin	Process	Generate newID	in New ID	ID: 263-1-1	
+G2024_11_04_09_46_06_612	PostB	finished waiting	10000	ms	in PNewID	ID: 263-1-1
+G2024_11_04_09_46_06_929	Users	duyadmin	Clicked on	View/Edit	in PUsers	263-1-1	
+G2024_11_04_09_46_08_344	New ID	duyadmin	Process	Generate newID	in New ID	ID: 264-1-1	
+G2024_11_04_09_46_17_371	PostB	finished waiting	10000	ms	in PNewID	ID: 263-1-1
+G2024_11_04_09_46_17_688	Users	duyadmin	Clicked on	View/Edit	in PUsers	264-1-1	
+G2024_11_04_09_46_21_548	Back	admin	Clicked on	Back	in PConfig	
+G2024_11_04_09_46_21_650	Config	admin	Clicked on	Config	in PServices	
+G2024_11_04_09_46_24_840	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_09_46_27_542	Back	admin	Clicked on	Back	in PConfig	
+G2024_11_04_09_46_27_553	Config	admin	Clicked on	Config	in PServices	
+G2024_11_04_09_46_28_819	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_09_46_30_174	Services	admin	Clicked on	Services	in P0120	
+G2024_11_04_09_46_30_813	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_04_09_46_31_987	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_04_09_46_32_105	Back	admin	Clicked on	Back	in P0120	
+G2024_11_04_09_46_34_350	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_09_46_35_340	admin	Logged out	by Click			
+G2024_11_04_09_46_56_047	View/Edit	duyadmin	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_09_46_56_381	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_09_46_59_028	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_04_09_46_59_040	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_04_09_47_00_147	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_04_09_47_01_310	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_09_47_03_763	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_09_47_05_580	Back	duyadmin	Clicked on	Back	in PNewID	
+G2024_11_04_09_47_07_508	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_04_09_47_09_127	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_04_09_47_11_088	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_09_47_17_821	View/Edit	duyadmin	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_09_47_18_181	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_09_47_23_313	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_04_09_47_23_323	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_04_09_47_24_500	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_04_09_47_25_684	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_09_47_27_394	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_09_47_28_893	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 265-1-1
+G2024_11_04_09_47_29_194	PreB	waiting started	15000	ms	in PNewID	ID: 265-1-1
+G2024_11_04_09_47_45_504	New ID	duyadmin	Process	Generate newID	in New ID	ID: 265-1-1	
+G2024_11_04_09_47_59_500	PostB	finished waiting	15000	ms	in PNewID	ID: 265-1-1
+G2024_11_04_09_47_59_797	Users	duyadmin	Clicked on	View/Edit	in PUsers	265-1-1	
+G2024_11_04_09_49_13_028	admin	Logged in	216.115.254.184				
+G2024_11_04_09_49_17_394	Services	admin	Clicked on	Services	in P0120	
+G2024_11_04_09_49_19_319	Config	admin	Clicked on	Config	in PServices	
+G2024_11_04_09_49_21_630	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_09_50_57_648	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_09_50_59_364	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_04_09_51_00_553	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 266-1-1
+G2024_11_04_09_51_05_000	PreB	waiting started	15000	ms	in PNewID	ID: 266-1-1
+G2024_11_04_09_51_23_303	New ID	duyadmin	Process	Generate newID	in New ID	ID: 266-1-1	
+G2024_11_04_09_51_50_235	PostB	finished waiting	15000	ms	in PNewID	ID: 266-1-1
+G2024_11_04_09_51_50_543	Users	duyadmin	Clicked on	View/Edit	in PUsers	266-1-1	
+G2024_11_04_09_54_55_270	admin	Logged out	by Click			
+G2024_11_04_09_56_17_350	duyadmin	Logged out	timeout			
+G2024_11_04_09_56_17_739	duyadmin	Logged out	by Click			
+G2024_11_04_09_56_36_163	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_04_09_56_38_337	duyadmin	Logged out	by Click			
+G2024_11_04_13_19_44_477		Unsuccessful login	216.115.254.184	admin3			
+G2024_11_04_13_19_56_484	admin3	Logged in	216.115.254.184				
+G2024_11_04_13_20_12_044	Users	admin3	Clicked on	View/Edit	in PUsers	170-1-1	
+G2024_11_04_13_20_40_017	admin3	Logged out	by Click			
+G2024_11_04_14_55_04_529	admin	Logged in	216.115.254.184				
+G2024_11_04_14_55_07_675	Services	admin	Clicked on	Services	in P0120	
+G2024_11_04_14_55_09_506	Config	admin	Clicked on	Config	in PServices	
+G2024_11_04_14_55_12_906	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_15_05_21_214	admin	Logged out	timeout			
+G2024_11_04_15_06_37_513		Unsuccessful login	216.115.254.184	admin			
+G2024_11_04_15_06_44_583	admin	Logged in	216.115.254.184				
+G2024_11_04_15_06_48_153	Services	admin	Clicked on	Services	in P0120	
+G2024_11_04_15_06_49_946	Config	admin	Clicked on	Config	in PServices	
+G2024_11_04_15_06_52_629	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_15_09_34_217	admin	Logged out	by Click			
+G2024_11_04_21_16_54_082	admin	Logged in	216.115.254.184				
+G2024_11_04_21_16_57_864	Services	admin	Clicked on	Services	in P0120	
+G2024_11_04_21_17_00_036	Config	admin	Clicked on	Config	in PServices	
+G2024_11_04_21_17_02_570	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_21_26_45_213	admin	Logged out	by Click			
+G2024_11_04_21_26_58_885	duyadmin	Logged in	116.98.222.31				
+G2024_11_04_21_27_01_681	admin5	Logged in	216.115.254.184				
+G2024_11_04_21_27_02_714	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_04_21_27_04_029	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_04_21_27_07_093	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_21_27_15_053	Users	admin5	Clicked on	View/Edit	in PUsers	250-1-1	
+G2024_11_04_21_27_33_829	Update	admin5	Clicked on	Update	in PViewEdit	ID: 250-1-1
+G2024_11_04_21_27_34_006	PreB	waiting started	15000	ms	in PViewEdit	ID: 250-1-1
+G2024_11_04_21_27_49_117	Update	admin5	Process	Update	in PViewEdit	ID: 250-1-1	
+G2024_11_04_21_28_04_126	PostB	finished waiting	15000	ms	in PViewEdit	ID: 250-1-1
+G2024_11_04_21_28_04_239	Users	admin5	Clicked on	View/Edit	in PUsers	250-1-1	
+G2024_11_04_21_28_10_665	Back	admin5	Clicked on	Back	in P0120	
+G2024_11_04_21_28_14_563	Services	admin5	Clicked on	Services	in P0120	
+G2024_11_04_21_28_16_916	Logs	admin5	Clicked on	Logs	in PServices	
+G2024_11_04_21_28_19_939	Logs	admin5	Clicked on	Download	in Logs	
+G2024_11_04_21_28_20_034	PreA	waiting started	100	ms	in PServices	
+G2024_11_04_21_28_21_139	Logs	admin5	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_04_21_28_22_135	PostA	finished waiting	100	ms	in PServices	
+G2024_11_04_21_29_52_543	Services	admin5	Clicked on	Services	in P0120	
+G2024_11_04_21_29_52_566	Back	admin5	Clicked on	Back	in PServices	
+G2024_11_04_21_29_54_684	Config	admin5	Clicked on	Config	in PServices	
+G2024_11_04_21_29_57_616	View/Edit	admin5	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_21_30_28_847	View/Edit	admin5	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_21_30_28_938	View/Edit	admin5	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_21_30_31_408	Back	admin5	Clicked on	Back	in PConfig	
+G2024_11_04_21_30_31_499	Config	admin5	Clicked on	Config	in PServices	
+G2024_11_04_21_30_33_152	Services	admin5	Clicked on	Services	in P0120	
+G2024_11_04_21_30_38_127	Back	admin5	Clicked on	Back	in P0120	
+G2024_11_04_21_30_46_379	Users	admin5	Clicked on	View/Edit	in PUsers	250-1-1	
+G2024_11_04_21_30_50_210	Back	admin5	Clicked on	Back	in P0120	
+G2024_11_04_21_31_05_947	Users	admin5	Clicked on	View/Edit	in PUsers	230-1-1	
+G2024_11_04_21_31_43_054	Update	admin5	Clicked on	Update	in PViewEdit	ID: 230-1-1
+G2024_11_04_21_31_43_156	PreB	waiting started	5000	ms	in PViewEdit	ID: 230-1-1
+G2024_11_04_21_31_48_269	Update	admin5	Process	Update	in PViewEdit	ID: 230-1-1	
+G2024_11_04_21_31_53_270	PostB	finished waiting	5000	ms	in PViewEdit	ID: 230-1-1
+G2024_11_04_21_31_53_401	Users	admin5	Clicked on	View/Edit	in PUsers	230-1-1	
+G2024_11_04_21_36_57_799	Update	admin5	Clicked on	Copy Username and Password	in PViewEdit	ID: 230-1-1
+G2024_11_04_21_39_02_030	Update	admin5	Clicked on	Update	in PViewEdit	ID: 230-1-1
+G2024_11_04_21_39_02_127	PreB	waiting started	5000	ms	in PViewEdit	ID: 230-1-1
+G2024_11_04_21_39_07_235	Update	admin5	Process	Update	in PViewEdit	ID: 230-1-1	
+G2024_11_04_21_39_12_240	PostB	finished waiting	5000	ms	in PViewEdit	ID: 230-1-1
+G2024_11_04_21_39_12_354	Users	admin5	Clicked on	View/Edit	in PUsers	230-1-1	
+G2024_11_04_21_44_32_706	Update	admin5	Clicked on	Update	in PViewEdit	ID: 230-1-1
+G2024_11_04_21_44_32_803	PreB	waiting started	5000	ms	in PViewEdit	ID: 230-1-1
+G2024_11_04_21_44_37_904	Update	admin5	Process	Update	in PViewEdit	ID: 230-1-1	
+G2024_11_04_21_44_42_914	PostB	finished waiting	5000	ms	in PViewEdit	ID: 230-1-1
+G2024_11_04_21_44_43_037	Users	admin5	Clicked on	View/Edit	in PUsers	230-1-1	
+G2024_11_04_21_52_41_898	Back	admin5	Clicked on	Back	in P0120	
+G2024_11_04_21_52_45_145	Services	admin5	Clicked on	Services	in P0120	
+G2024_11_04_21_52_49_341	Back	admin5	Clicked on	Back	in P0120	
+G2024_11_04_21_53_20_749	Users	admin5	Clicked on	View/Edit	in PUsers	230-1-1	
+G2024_11_04_21_53_27_300	admin5	Logged out	by Click			
+G2024_11_04_22_00_06_154	admin4	Logged in	216.115.254.184				
+G2024_11_04_22_00_10_355	Services	admin4	Clicked on	Services	in P0120	
+G2024_11_04_22_00_12_462	Config	admin4	Clicked on	Config	in PServices	
+G2024_11_04_22_00_14_967	View/Edit	admin4	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_22_00_32_350	View/Edit	admin4	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_22_00_32_442	View/Edit	admin4	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_22_00_37_119	admin4	Logged out	by Click			
+G2024_11_04_22_00_50_960		Unsuccessful login		admin4			
+G2024_11_04_22_01_03_168	admin4	Logged in	216.115.254.184				
+G2024_11_04_22_01_10_643	Users	admin4	Clicked on	View/Edit	in PUsers	260-1-1	
+G2024_11_04_22_01_22_461	Update	admin4	Clicked on	Update	in PViewEdit	ID: 260-1-1
+G2024_11_04_22_01_22_657	PreB	waiting started	100	ms	in PViewEdit	ID: 260-1-1
+G2024_11_04_22_01_23_774	Update	admin4	Process	Update	in PViewEdit	ID: 260-1-1	
+G2024_11_04_22_01_24_784	PostB	finished waiting	100	ms	in PViewEdit	ID: 260-1-1
+G2024_11_04_22_01_24_913	Users	admin4	Clicked on	View/Edit	in PUsers	260-1-1	
+G2024_11_04_22_04_05_842	Update	admin4	Clicked on	Update	in PViewEdit	ID: 260-1-1
+G2024_11_04_22_04_05_943	PreB	waiting started	100	ms	in PViewEdit	ID: 260-1-1
+G2024_11_04_22_04_07_056	Update	admin4	Process	Update	in PViewEdit	ID: 260-1-1	
+G2024_11_04_22_04_08_064	PostB	finished waiting	100	ms	in PViewEdit	ID: 260-1-1
+G2024_11_04_22_04_08_195	Users	admin4	Clicked on	View/Edit	in PUsers	260-1-1	
+G2024_11_04_22_19_11_019	admin4	Logged out	by Click			
+G2024_11_04_22_21_31_990	duyadmin	Logged in	116.98.222.102				
+G2024_11_04_22_21_35_371	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_04_22_21_37_232	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_04_22_21_44_071	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_22_31_59_481	admin5	Logged in	216.115.254.184				
+G2024_11_04_22_32_08_601	Services	admin5	Clicked on	Services	in P0120	
+G2024_11_04_22_32_12_260	Config	admin5	Clicked on	Config	in PServices	
+G2024_11_04_22_32_14_872	View/Edit	admin5	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_22_33_44_354	View/Edit	admin5	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_22_33_44_455	View/Edit	admin5	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_04_22_39_44_052	duyadmin	Logged out	by Click			
+G2024_11_04_22_39_59_060	duyadmin	Logged in	116.98.222.102				
+G2024_11_04_22_40_01_799	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_04_22_40_03_533	Password	duyadmin	Clicked on	Passwords	in PServices	
+G2024_11_04_22_40_06_421	Back	duyadmin	Clicked on	Back	in PServices	
+G2024_11_04_22_40_06_717	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_04_22_40_08_414	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_04_22_40_10_559	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_04_22_40_11_130	PreA	waiting started	5000	ms	in PServices	
+G2024_11_04_22_40_16_793	Logs	duyadmin	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_04_22_40_21_748	PostA	finished waiting	5000	ms	in PServices	
+G2024_11_04_22_43_21_836	Config	admin5	Clicked on	Config	in PServices	
+G2024_11_04_22_43_21_858	Back	admin5	Clicked on	Back	in PConfig	
+G2024_11_04_22_43_23_922	Services	admin5	Clicked on	Services	in P0120	
+G2024_11_04_22_43_25_926	Back	admin5	Clicked on	Back	in P0120	
+G2024_11_04_22_59_11_056	admin5	Logged out	by Click			
+G2024_11_05_04_48_00_280	duyadmin	Logged in	14.162.199.128				
+G2024_11_05_04_48_20_161	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_04_48_22_851	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_04_48_25_960	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_04_48_48_378	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_05_04_48_48_382	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_04_48_51_371	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_04_48_57_264	View/Edit	duyadmin	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_04_48_57_728	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_04_48_59_239	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_04_48_59_268	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_05_04_49_01_286	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_04_49_03_312	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_05_04_49_05_976	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_05_04_49_06_566	PreA	waiting started	5000	ms	in PServices	
+G2024_11_05_04_49_12_187	Logs	duyadmin	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_05_04_49_17_186	PostA	finished waiting	5000	ms	in PServices	
+G2024_11_05_04_49_19_773	Back	duyadmin	Clicked on	Back	in PServices	
+G2024_11_05_04_49_19_777	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_04_49_21_131	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_04_49_23_617	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_05_04_49_24_673	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 267-1-1
+G2024_11_05_04_49_24_928	PreB	waiting started	5000	ms	in PNewID	ID: 267-1-1
+G2024_11_05_04_49_32_093	New ID	duyadmin	Process	Generate newID	in New ID	ID: 267-1-1	
+G2024_11_05_04_49_35_218	PostB	finished waiting	5000	ms	in PNewID	ID: 267-1-1
+G2024_11_05_04_49_35_481	Users	duyadmin	Clicked on	View/Edit	in PUsers	267-1-1	
+G2024_11_05_04_49_56_601	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_04_49_59_535	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_04_50_01_402	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_05_04_50_04_471	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_05_04_50_05_547	PreA	waiting started	5000	ms	in PServices	
+G2024_11_05_04_50_10_933	Logs	duyadmin	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_05_04_50_15_936	PostA	finished waiting	5000	ms	in PServices	
+G2024_11_05_04_50_21_108	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_05_04_50_21_580	PreA	waiting started	5000	ms	in PServices	
+G2024_11_05_04_50_26_861	Logs	duyadmin	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_05_04_50_31_864	PostA	finished waiting	5000	ms	in PServices	
+G2024_11_05_04_50_33_975	Back	duyadmin	Clicked on	Back	in PServices	
+G2024_11_05_04_50_33_979	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_04_50_36_093	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_05_04_50_37_417	Back	duyadmin	Clicked on	Back	in PServices	
+G2024_11_05_04_50_37_422	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_04_50_39_098	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_04_50_42_009	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_04_51_04_153	View/Edit	duyadmin	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_04_51_04_395	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_04_51_05_621	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_04_51_05_629	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_05_04_51_08_248	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_04_51_11_643	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_05_04_51_14_205	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_05_04_51_14_454	PreA	waiting started	5000	ms	in PServices	
+G2024_11_05_04_51_20_261	Logs	duyadmin	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_05_04_51_25_258	PostA	finished waiting	5000	ms	in PServices	
+G2024_11_05_04_51_27_994	Back	duyadmin	Clicked on	Back	in PServices	
+G2024_11_05_04_51_27_999	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_04_51_29_647	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_04_53_28_848	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_04_53_31_403	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_04_53_33_623	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_04_53_51_201	View/Edit	duyadmin	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_04_53_51_447	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_04_54_01_673	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_05_04_54_01_678	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_04_54_03_637	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_04_54_05_266	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_04_54_07_027	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_05_04_54_08_223	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 268-1-1
+G2024_11_05_04_54_08_475	PreB	waiting started	10000	ms	in PNewID	ID: 268-1-1
+G2024_11_05_04_54_19_830	New ID	duyadmin	Process	Generate newID	in New ID	ID: 268-1-1	
+G2024_11_05_04_54_28_826	PostB	finished waiting	10000	ms	in PNewID	ID: 268-1-1
+G2024_11_05_04_54_29_207	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_04_54_59_922	admin	Logged in	14.162.199.128				
+G2024_11_05_04_55_14_458	Users	admin	Clicked on	View/Edit	in PUsers	267-1-1	
+G2024_11_05_04_55_17_693	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 268-1-1
+G2024_11_05_04_55_17_939	PreB	waiting started	10000	ms	in PViewEdit	ID: 268-1-1
+G2024_11_05_04_55_19_302	Update	admin	Clicked on	Update	in PViewEdit	ID: 267-1-1
+G2024_11_05_04_55_28_257	Update	duyadmin	Process	Update	in PViewEdit	ID: 268-1-1	
+G2024_11_05_04_55_28_700	Back	admin	Clicked on	Back	in P0120	
+G2024_11_05_04_55_31_306	Users	admin	Clicked on	View/Edit	in PUsers	267-1-1	
+G2024_11_05_04_55_32_125	Update	admin	Clicked on	Update	in PViewEdit	ID: 267-1-1
+G2024_11_05_04_55_38_252	PostB	finished waiting	10000	ms	in PViewEdit	ID: 268-1-1
+G2024_11_05_04_55_38_518	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_04_55_43_167	Back	admin	Clicked on	Back	in P0120	
+G2024_11_05_04_55_46_760	Services	admin	Clicked on	Services	in P0120	
+G2024_11_05_04_55_47_675	Config	admin	Clicked on	Config	in PServices	
+G2024_11_05_04_55_48_928	Services	admin	Clicked on	Services	in P0120	
+G2024_11_05_04_55_50_181	Logs	admin	Clicked on	Logs	in PServices	
+G2024_11_05_04_55_51_550	Logs	admin	Clicked on	Download	in Logs	
+G2024_11_05_04_55_51_838	PreA	waiting started	10000	ms	in PServices	
+G2024_11_05_04_56_02_148	Logs	admin	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_05_04_56_12_150	PostA	finished waiting	10000	ms	in PServices	
+G2024_11_05_04_57_49_576	Update	duyadmin	Clicked on	Copy Username and Password	in PViewEdit	ID: 268-1-1
+G2024_11_05_04_57_51_295	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_04_57_53_551	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_04_57_55_804	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_05_04_57_57_437	Back	duyadmin	Clicked on	Back	in PServices	
+G2024_11_05_04_57_57_443	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_04_57_58_682	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_04_58_02_460	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_04_58_09_026	View/Edit	duyadmin	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_04_58_09_358	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_04_58_12_629	Services	admin	Clicked on	Services	in P0120	
+G2024_11_05_04_58_12_638	Back	admin	Clicked on	Back	in PServices	
+G2024_11_05_04_58_12_703	Back	admin	Clicked on	Back	in PServices	
+G2024_11_05_04_58_15_398	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_05_04_58_15_404	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_04_58_16_842	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_04_58_18_343	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_04_58_20_746	Users	duyadmin	Clicked on	View/Edit	in PUsers	267-1-1	
+G2024_11_05_04_58_22_258	Back	admin	Clicked on	Back	in P0120	
+G2024_11_05_04_58_24_870	Users	admin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_04_58_26_027	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 267-1-1
+G2024_11_05_04_58_26_361	PreB	waiting started	10000	ms	in PViewEdit	ID: 267-1-1
+G2024_11_05_04_58_27_595	Update	admin	Clicked on	Update	in PViewEdit	ID: 268-1-1
+G2024_11_05_04_58_36_613	Update	duyadmin	Process	Update	in PViewEdit	ID: 267-1-1	
+G2024_11_05_04_58_46_619	PostB	finished waiting	10000	ms	in PViewEdit	ID: 267-1-1
+G2024_11_05_04_58_46_877	Users	duyadmin	Clicked on	View/Edit	in PUsers	267-1-1	
+G2024_11_05_04_58_50_223	PreB	waiting started	10000	ms	in PViewEdit	ID: 268-1-1
+G2024_11_05_04_58_58_840	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_04_59_00_471	Update	admin	Process	Update	in PViewEdit	ID: 268-1-1	
+G2024_11_05_04_59_00_542	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_04_59_02_258	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_04_59_04_173	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_04_59_10_474	PostB	finished waiting	10000	ms	in PViewEdit	ID: 268-1-1
+G2024_11_05_04_59_10_799	Users	admin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_04_59_20_186	View/Edit	duyadmin	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_04_59_20_427	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_04_59_25_422	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_05_04_59_25_427	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_04_59_26_693	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_04_59_28_706	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_04_59_34_127	Users	duyadmin	Clicked on	View/Edit	in PUsers	265-1-1	
+G2024_11_05_04_59_35_345	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 265-1-1
+G2024_11_05_04_59_35_595	PreB	waiting started	10000	ms	in PViewEdit	ID: 265-1-1
+G2024_11_05_04_59_36_871	Update	admin	Clicked on	Update	in PViewEdit	ID: 268-1-1
+G2024_11_05_04_59_41_786	Back	admin	Clicked on	Back	in P0120	
+G2024_11_05_04_59_45_021	Users	admin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_04_59_45_845	Update	duyadmin	Process	Update	in PViewEdit	ID: 265-1-1	
+G2024_11_05_04_59_48_587	admin	Logged out	by Click			
+G2024_11_05_04_59_55_852	PostB	finished waiting	10000	ms	in PViewEdit	ID: 265-1-1
+G2024_11_05_04_59_56_175	Users	duyadmin	Clicked on	View/Edit	in PUsers	265-1-1	
+G2024_11_05_04_59_56_245	admin	Logged in	14.162.199.128				
+G2024_11_05_05_00_03_415	Users	admin	Clicked on	View/Edit	in PUsers	261-1-1	
+G2024_11_05_05_00_05_612	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 265-1-1
+G2024_11_05_05_00_05_893	PreB	waiting started	10000	ms	in PViewEdit	ID: 265-1-1
+G2024_11_05_05_00_07_211	Update	admin	Clicked on	Update	in PViewEdit	ID: 261-1-1
+G2024_11_05_05_00_16_202	Update	duyadmin	Process	Update	in PViewEdit	ID: 265-1-1	
+G2024_11_05_05_00_21_775	PreB	waiting started	10000	ms	in PViewEdit	ID: 261-1-1
+G2024_11_05_05_00_26_208	PostB	finished waiting	10000	ms	in PViewEdit	ID: 265-1-1
+G2024_11_05_05_00_26_464	Users	duyadmin	Clicked on	View/Edit	in PUsers	265-1-1	
+G2024_11_05_05_00_32_080	Update	admin	Process	Update	in PViewEdit	ID: 261-1-1	
+G2024_11_05_05_00_35_073	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_05_00_36_734	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_05_00_37_822	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_05_05_00_39_522	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_05_05_00_39_888	PreA	waiting started	10000	ms	in PServices	
+G2024_11_05_05_00_42_083	PostB	finished waiting	10000	ms	in PViewEdit	ID: 261-1-1
+G2024_11_05_05_00_42_420	Users	admin	Clicked on	View/Edit	in PUsers	261-1-1	
+G2024_11_05_05_00_50_142	Logs	duyadmin	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_05_05_01_00_143	PostA	finished waiting	10000	ms	in PServices	
+G2024_11_05_05_10_42_076	admin	Logged out	timeout			
+G2024_11_05_05_10_42_303	admin	Logged out	by Click			
+G2024_11_05_05_13_18_674	duyadmin	Logged out	by Click			
+G2024_11_05_05_13_22_649	duyadmin	Logged out	by Click			
+G2024_11_05_06_10_10_738	duyadmin	Logged in	14.162.199.128				
+G2024_11_05_06_10_14_592	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_06_10_17_082	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_06_10_19_036	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_06_15_49_142	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_06_15_49_149	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_05_06_15_54_407	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_06_18_50_018	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_06_18_50_030	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_05_06_18_51_466	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_06_18_53_090	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_06_18_56_578	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_06_20_11_979	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_06_20_13_784	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_06_20_15_901	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_06_20_17_486	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_06_20_17_492	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_05_06_20_22_004	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::COMMON TEMPORARY MESSAGE	
+G2024_11_05_06_20_25_812	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_05_06_20_25_825	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_06_20_27_611	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_06_20_32_502	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_06_20_35_511	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_06_32_22_833	duyadmin	Logged out	by Click			
+G2024_11_05_06_46_00_443	duyadmin	Logged in	14.162.199.128				
+G2024_11_05_06_47_39_328	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_06_49_19_447	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_06_49_21_690	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_06_49_23_396	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_06_49_28_415	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_11_05_06_49_42_974	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_05_06_49_42_978	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_06_50_59_507	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_06_51_01_124	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_06_51_04_804	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_07_26_22_920	duyadmin	Logged out	by Click			
+G2024_11_05_07_38_37_923	duyadmin	Logged in	14.162.199.128				
+G2024_11_05_07_38_41_945	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_07_47_45_510	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 268-1-1
+G2024_11_05_07_47_45_767	PreB	waiting started	10000	ms	in PViewEdit	ID: 268-1-1
+G2024_11_05_07_47_56_137	Update	duyadmin	Process	Update	in PViewEdit	ID: 268-1-1	
+G2024_11_05_07_48_06_675	PostB	finished waiting	10000	ms	in PViewEdit	ID: 268-1-1
+G2024_11_05_07_48_06_956	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_07_59_25_886	duyadmin	Logged in	171.225.109.192				
+G2024_11_05_07_59_30_064	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_07_59_32_667	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_05_07_59_34_145	Logs	duyadmin	Clicked on	Download	in Logs	
+G2024_11_05_07_59_34_435	PreA	waiting started	10000	ms	in PServices	
+G2024_11_05_07_59_44_722	Logs	duyadmin	Process	Download	in Logs	G2024_11_02_08_15_25_550
+G2024_11_05_07_59_55_651	PostA	finished waiting	10000	ms	in PServices	
+G2024_11_05_08_01_14_258	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_08_01_14_292	Back	duyadmin	Clicked on	Back	in PServices	
+G2024_11_05_08_01_15_484	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_08_01_17_691	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_01_44_391	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_03_25_322	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_03_32_869	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_03_47_720	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_03_58_697	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_04_11_042	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_05_40_561	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_06_09_612	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_06_26_862	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_06_44_312	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_08_17_222	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_08_08_22_638	duyadmin	Logged out	by Click			
+G2024_11_05_08_08_26_475	admin	Logged in	116.98.248.12				
+G2024_11_05_08_08_30_041	Users	admin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_08_08_31_569	Update	admin	Clicked on	Update	in PViewEdit	ID: 268-1-1
+G2024_11_05_08_08_31_871	PreB	waiting started	10000	ms	in PViewEdit	ID: 268-1-1
+G2024_11_05_08_08_42_170	Update	admin	Process	Update	in PViewEdit	ID: 268-1-1	
+G2024_11_05_08_08_52_176	PostB	finished waiting	10000	ms	in PViewEdit	ID: 268-1-1
+G2024_11_05_08_08_52_487	Users	admin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_08_13_54_933	Update	admin	Clicked on	Update	in PViewEdit	ID: 268-1-1
+G2024_11_05_08_13_55_387	PreB	waiting started	10000	ms	in PViewEdit	ID: 268-1-1
+G2024_11_05_08_14_05_734	Update	admin	Process	Update	in PViewEdit	ID: 268-1-1	
+G2024_11_05_08_14_24_687	PostB	finished waiting	10000	ms	in PViewEdit	ID: 268-1-1
+G2024_11_05_08_14_25_012	Users	admin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_08_14_53_492	Users	admin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_08_14_58_279	Update	admin	Clicked on	Update	in PViewEdit	ID: 268-1-1
+G2024_11_05_08_14_58_546	PreB	waiting started	10000	ms	in PViewEdit	ID: 268-1-1
+G2024_11_05_08_15_09_692	Update	admin	Process	Update	in PViewEdit	ID: 268-1-1	
+G2024_11_05_08_15_20_692	PostB	finished waiting	10000	ms	in PViewEdit	ID: 268-1-1
+G2024_11_05_08_15_20_990	Users	admin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_08_15_30_526	Back	admin	Clicked on	Back	in P0120	
+G2024_11_05_08_15_32_378	Services	admin	Clicked on	Services	in P0120	
+G2024_11_05_08_15_33_880	Config	admin	Clicked on	Config	in PServices	
+G2024_11_05_08_15_35_839	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_08_15_49_703	View/Edit	admin	Clicked on	Update	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_08_15_49_986	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_08_15_51_905	Config	admin	Clicked on	Config	in PServices	
+G2024_11_05_08_15_51_918	Back	admin	Clicked on	Back	in PConfig	
+G2024_11_05_08_15_53_658	Services	admin	Clicked on	Services	in P0120	
+G2024_11_05_08_15_54_820	Back	admin	Clicked on	Back	in P0120	
+G2024_11_05_08_15_57_626	Users	admin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_08_16_01_159	Update	admin	Clicked on	Update	in PViewEdit	ID: 268-1-1
+G2024_11_05_08_16_01_476	PreB	waiting started	1000	ms	in PViewEdit	ID: 268-1-1
+G2024_11_05_08_16_03_722	Update	admin	Process	Update	in PViewEdit	ID: 268-1-1	
+G2024_11_05_08_16_05_718	PostB	finished waiting	1000	ms	in PViewEdit	ID: 268-1-1
+G2024_11_05_08_16_06_028	Users	admin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_08_16_11_803	admin	Logged out	by Click			
+G2024_11_05_08_16_15_300	duyadmin	Logged in	116.98.248.12				
+G2024_11_05_08_16_19_962	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_08_16_21_141	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 268-1-1
+G2024_11_05_08_16_21_409	PreB	waiting started	1000	ms	in PViewEdit	ID: 268-1-1
+G2024_11_05_08_16_22_697	Update	duyadmin	Process	Update	in PViewEdit	ID: 268-1-1	
+G2024_11_05_08_16_23_700	PostB	finished waiting	1000	ms	in PViewEdit	ID: 268-1-1
+G2024_11_05_08_16_23_991	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_08_19_07_324	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_08_19_28_057	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_08_19_46_565	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_21_07_826	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_22_07_641	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_22_27_705	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_24_30_912	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_25_44_087	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_26_51_373	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_27_16_232	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_27_32_026	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_30_12_862	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_30_25_999	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_30_31_667	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_30_39_598	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_30_43_452	Users	duyadmin	Clicked on	View/Edit	in PUsers	teacherassociate032
+G2024_11_05_08_30_43_841	Update	duyadmin	Clicked on	Generate User and Password	in PViewEdit	teacherassociate032
+G2024_11_05_08_30_46_172	Back	duyadmin	Clicked on	Back	in PUsers	
+G2024_11_05_08_30_46_183	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_30_48_277	Users	duyadmin	Clicked on	View/Edit	in PUsers	teacher01
+G2024_11_05_08_30_48_645	Update	duyadmin	Clicked on	Generate User and Password	in PViewEdit	teacher01
+G2024_11_05_08_30_56_582	Back	duyadmin	Clicked on	Back	in PUsers	
+G2024_11_05_08_30_56_592	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_31_00_576	Search	duyadmin	Clicked on	Search	in P0120	
+G2024_11_05_08_31_01_834	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_08_31_04_522	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_05_08_31_05_859	Back	duyadmin	Clicked on	Back	in PNewID	
+G2024_11_05_08_31_08_497	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_08_31_10_480	Password	duyadmin	Clicked on	Passwords	in PServices	
+G2024_11_05_08_31_19_098	Back	duyadmin	Clicked on	Back	in PServices	
+G2024_11_05_08_31_19_116	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_08_31_21_138	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_05_08_31_24_366	Back	duyadmin	Clicked on	Back	in PServices	
+G2024_11_05_08_31_24_377	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_08_31_25_745	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_08_31_33_112	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_08_32_04_845	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_08_32_06_396	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_05_08_32_06_424	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_08_32_08_624	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::P0120	
+G2024_11_05_08_32_20_340	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_05_08_32_20_350	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_08_32_25_315	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_08_32_26_889	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_08_32_29_470	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_33_28_827	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_35_41_837	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_08_35_44_281	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_08_35_46_773	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_11_05_08_39_05_760	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_08_39_05_775	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_05_08_39_06_993	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_08_39_08_686	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_08_39_12_467	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_08_39_36_491	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_08_49_39_934	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_08_49_45_097	Update	duyadmin	Clicked on	Start Uploading	in PViewEdit	ID: 268-1-1
+G2024_11_05_08_50_38_888	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_08_50_40_535	Update	duyadmin	Clicked on	Start Uploading	in PViewEdit	ID: 268-1-1
+G2024_11_05_08_51_03_331	Update	duyadmin	Clicked on	Start Uploading	in PViewEdit	ID: 268-1-1
+G2024_11_05_08_51_04_499	Update	duyadmin	Clicked on	Start Uploading	in PViewEdit	ID: 268-1-1
+G2024_11_05_08_51_11_798	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_08_51_16_733	Update	duyadmin	Clicked on	Start Uploading	in PViewEdit	ID: 268-1-1
+G2024_11_05_08_52_52_095	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_08_52_57_811	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_08_53_14_921	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_08_53_17_460	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_08_53_19_429	Logs	duyadmin	Clicked on	Logs	in PServices	
+G2024_11_05_08_53_21_065	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_08_53_23_345	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::P0120	
+G2024_11_05_08_53_28_733	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_05_08_53_28_744	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_08_53_29_884	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_08_53_31_931	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_08_55_27_804	Users	duyadmin	Clicked on	Users	in P0120	
+G2024_11_05_08_55_38_814	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_08_58_10_155	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_08_58_12_178	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_08_58_13_674	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_08_58_16_563	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::PS01	
+G2024_11_05_08_58_19_091	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_05_08_58_19_110	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_08_58_21_335	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::PS02	
+G2024_11_05_08_58_23_596	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_08_58_23_609	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_05_08_58_28_872	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_08_58_30_002	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_08_58_33_950	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_08_59_01_749	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_08_59_03_498	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_08_59_05_389	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_08_59_07_620	View/Edit	duyadmin	Clicked on	View/Edit	in PConfig	Website Configuration::PS05	
+G2024_11_05_09_00_18_184	Back	duyadmin	Clicked on	Back	in PConfig	
+G2024_11_05_09_00_18_456	Config	duyadmin	Clicked on	Config	in PServices	
+G2024_11_05_09_00_19_883	Services	duyadmin	Clicked on	Services	in P0120	
+G2024_11_05_09_00_21_226	Back	duyadmin	Clicked on	Back	in P0120	
+G2024_11_05_09_00_23_782	New ID	duyadmin	Clicked on	New ID	in P0120	
+G2024_11_05_09_00_24_932	Back	duyadmin	Clicked on	Back	in PNewID	
+G2024_11_05_09_00_27_121	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_09_04_05_489	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_09_05_43_732	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_09_07_08_345	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_09_07_43_134	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_09_08_04_346	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_09_13_35_987	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_09_14_54_277	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 268-1-1
+G2024_11_05_09_14_54_574	PreB	waiting started	1000	ms	in PViewEdit	ID: 268-1-1
+G2024_11_05_09_14_56_870	PostB	finished waiting	1000	ms	in PViewEdit	ID: 268-1-1
+G2024_11_05_09_15_08_315	Users	duyadmin	Clicked on	View/Edit	in PUsers	268-1-1	
+G2024_11_05_09_15_16_113	Update	duyadmin	Clicked on	Update	in PViewEdit	ID: 268-1-1

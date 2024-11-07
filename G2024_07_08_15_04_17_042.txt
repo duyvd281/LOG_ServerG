@@ -1,0 +1,8 @@
+G2024_07_08_15_04_17_042	File generated
+G2024_07_08_15_04_17_042	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_07_08_15_04_21_400	Config	admin	Clicked on	Config	in PServices	
+G2024_07_08_15_04_23_941	Services	admin	Clicked on	Services	in P0120	
+G2024_07_08_15_04_27_614	Logs	admin	Clicked on	Logs	in PServices	
+G2024_07_08_15_07_46_544	admin	Logged out	by Click			
+G2024_07_08_15_07_46_776	admin	Logged out	timeout			
+G2024_07_08_15_13_28_459	admin	Logged in	216.115.254.184				

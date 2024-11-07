@@ -1,0 +1,5 @@
+G2024_07_07_22_39_04_141	File generated
+G2024_07_07_22_39_04_141	Logs	admin	Clicked on	Logs	in PServices	
+G2024_07_07_22_39_09_704	Services	admin	Clicked on	Services	in P0120	
+G2024_07_07_22_39_13_927	Config	admin	Clicked on	Config	in PServices	
+G2024_07_07_22_39_19_027	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	

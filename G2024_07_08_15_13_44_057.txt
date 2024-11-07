@@ -1,0 +1,8 @@
+G2024_07_08_15_13_44_057	File generated
+G2024_07_08_15_13_44_057	Services	admin	Clicked on	Services	in P0120	
+G2024_07_08_15_13_46_955	Config	admin	Clicked on	Config	in PServices	
+G2024_07_08_15_54_03_128	admin	Logged out	by Click			
+G2024_07_10_07_23_58_424	controller1	Logged in	216.115.254.184				
+G2024_07_10_07_24_10_054	New ID	controller1	Clicked on	New ID	in P0120	
+G2024_07_10_07_25_16_917	Update	controller1	Clicked on	Update	in PNewID	ID: 5-1-1	
+G2024_07_10_07_25_43_722	Passwords	controller1	Clicked on	Users	in P0120	

@@ -1,0 +1,1358 @@
+G2024_10_05_20_53_31_222 File generated
+G2024_10_05_20_53_31_222	Config	admin	Clicked on	Config	in PServices	
+G2024_10_05_20_53_32_270	Services	admin	Clicked on	Services	in P0120	
+G2024_10_05_20_53_35_792	View/Edit	admin	Clicked on	View/Edit	in P0120	19-1-1	
+G2024_10_05_20_56_43_379	View/Edit	admin	Clicked on	View/Edit	in P0120	19-1-1	
+G2024_10_05_20_57_38_831	View/Edit	admin	Clicked on	View/Edit	in P0120	19-1-1	
+G2024_10_05_21_02_14_412	View/Edit	admin	Clicked on	View/Edit	in P0120	19-1-1	
+G2024_10_05_21_03_41_804	View/Edit	admin	Clicked on	View/Edit	in P0120	19-1-1	
+G2024_10_05_21_03_47_558	Services	admin	Clicked on	Services	in P0120	
+G2024_10_05_21_03_49_697	Config	admin	Clicked on	Config	in PServices	
+G2024_10_05_21_03_52_217	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_05_21_03_58_562	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_05_21_04_00_411	Config	admin	Clicked on	Config	in PServices	
+G2024_10_05_21_04_01_558	Services	admin	Clicked on	Services	in P0120	
+G2024_10_05_21_04_05_309	View/Edit	admin	Clicked on	View/Edit	in P0120	19-1-1	
+G2024_10_05_21_09_03_376	View/Edit	admin	Clicked on	View/Edit	in P0120	19-1-1	
+G2024_10_05_21_15_26_451	admin	Logged out	by Click			
+G2024_10_05_21_20_29_691	admin	Logged in	116.98.249.176				
+G2024_10_05_21_20_33_578	Users	admin	Clicked on	Users	in P0120	
+G2024_10_05_21_20_40_837	View/Edit	admin	Clicked on	View/Edit	in P0120	19-1-1	
+G2024_10_05_21_21_26_710	View/Edit	admin	Clicked on	View/Edit	in P0120	19-1-1	
+G2024_10_05_21_22_00_868	View/Edit	admin	Clicked on	View/Edit	in P0120	19-1-1	
+G2024_10_05_21_22_30_528	View/Edit	admin	Clicked on	View/Edit	in P0120	19-1-1	
+G2024_10_05_21_22_45_949	View/Edit	admin	Clicked on	View/Edit	in P0120	19-1-1	
+G2024_10_05_21_24_25_920	View/Edit	admin	Clicked on	View/Edit	in P0120	19-1-1	
+G2024_10_05_21_31_26_650	admin	Logged out	by Click			
+G2024_10_05_21_49_44_805	admin	Logged in	116.98.249.176				
+G2024_10_05_21_49_48_923	View/Edit	admin	Clicked on	View/Edit	in P0120	19-1-1	
+G2024_10_05_21_56_14_124	View/Edit	admin	Clicked on	View/Edit	in P0120	19-1-1	
+G2024_10_05_21_57_20_435	View/Edit	admin	Clicked on	View/Edit	in P0120	19-1-1	
+G2024_10_05_22_04_26_601	admin	Logged out	by Click			
+G2024_10_05_22_30_50_865	admin	Logged in	116.98.249.176				
+G2024_10_05_22_31_01_595	View/Edit	admin	Clicked on	View/Edit	in P0120	20-1-1	
+G2024_10_05_22_33_20_726	View/Edit	admin	Clicked on	View/Edit	in P0120	20-1-1	
+G2024_10_05_22_33_41_008	View/Edit	admin	Clicked on	View/Edit	in P0120	20-1-1	
+G2024_10_05_22_34_39_560	View/Edit	admin	Clicked on	View/Edit	in P0120	20-1-1	
+G2024_10_05_22_35_09_574	View/Edit	admin	Clicked on	View/Edit	in P0120	20-1-1	
+G2024_10_05_22_35_45_567	View/Edit	admin	Clicked on	View/Edit	in P0120	20-1-1	
+G2024_10_05_22_36_54_969	View/Edit	admin	Clicked on	View/Edit	in P0120	20-1-1	
+G2024_10_05_22_38_47_388	View/Edit	admin	Clicked on	View/Edit	in P0120	20-1-1	
+G2024_10_05_22_39_05_241	View/Edit	admin	Clicked on	View/Edit	in P0120	20-1-1	
+G2024_10_05_22_39_28_693	View/Edit	admin	Clicked on	View/Edit	in P0120	20-1-1	
+G2024_10_05_22_39_57_442	View/Edit	admin	Clicked on	View/Edit	in P0120	20-1-1	
+G2024_10_05_22_40_22_624	View/Edit	admin	Clicked on	View/Edit	in P0120	20-1-1	
+G2024_10_05_23_01_34_561	admin	Logged out	timeout			
+G2024_10_05_23_01_35_049	admin	Logged out	by Click			
+G2024_10_05_23_01_40_200	admin	Logged in	116.98.249.176				
+G2024_10_05_23_01_43_637	View/Edit	admin	Clicked on	View/Edit	in P0120	30-1-1	
+G2024_10_05_23_10_56_692	admin	Logged out	timeout			
+G2024_10_05_23_10_56_839	admin	Logged out	by Click			
+G2024_10_05_23_10_57_278	admin	Logged out	timeout			
+G2024_10_05_23_10_57_581	admin	Logged out	by Click			
+G2024_10_05_23_12_15_564	admin	Logged in	116.98.249.176				
+G2024_10_05_23_12_19_347	View/Edit	admin	Clicked on	View/Edit	in P0120	32-1-1	
+G2024_10_05_23_14_05_766	View/Edit	admin	Clicked on	View/Edit	in P0120	32-1-1	
+G2024_10_05_23_14_15_566	View/Edit	admin	Clicked on	View/Edit	in P0120	32-1-1	
+G2024_10_05_23_16_11_136	View/Edit	admin	Clicked on	View/Edit	in P0120	32-1-1	
+G2024_10_05_23_17_57_488	View/Edit	admin	Clicked on	View/Edit	in P0120	32-1-1	
+G2024_10_05_23_19_51_747	View/Edit	admin	Clicked on	View/Edit	in P0120	32-1-1	
+G2024_10_05_23_23_15_613	View/Edit	admin	Clicked on	View/Edit	in P0120	32-1-1	
+G2024_10_05_23_23_57_499	View/Edit	admin	Clicked on	View/Edit	in P0120	32-1-1	
+G2024_10_05_23_24_53_659	View/Edit	admin	Clicked on	View/Edit	in P0120	32-1-1	
+G2024_10_06_09_04_57_899	admin	Logged in	216.115.254.184				
+G2024_10_06_09_05_07_047	Services	admin	Clicked on	Services	in P0120	
+G2024_10_06_09_05_13_346	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_06_09_11_10_405	Services	admin	Clicked on	Services	in P0120	
+G2024_10_06_09_11_13_767	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_06_09_11_44_663	Services	admin	Clicked on	Services	in P0120	
+G2024_10_06_11_43_25_237	controller2	Logged in	216.115.254.184				
+G2024_10_06_11_43_30_157	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_06_11_43_33_638	Logs	controller2	Clicked on	Logs	in PServices	
+G2024_10_06_11_44_21_470	controller2	Logged out	by Click			
+G2024_10_07_06_45_18_640		Unsuccessful login	14.162.199.128	teacher			
+G2024_10_07_06_59_53_657	controller2	Logged in	216.115.254.184				
+G2024_10_07_06_59_59_486	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_07_07_00_01_856	Logs	controller2	Clicked on	Logs	in PServices	
+G2024_10_07_07_04_58_129	controller2	Logged out	by Click			
+G2024_10_07_07_09_06_465	teacher1	Logged in	14.162.199.128				
+G2024_10_07_07_09_10_382	Users	teacher1	Clicked on	Users	in P0120	
+G2024_10_07_07_09_27_496	Services	teacher1	Clicked on	Services	in P0120	
+G2024_10_07_07_09_31_946	Users	teacher1	Clicked on	Users	in P0120	
+G2024_10_07_07_09_33_139	Services	teacher1	Clicked on	Services	in P0120	
+G2024_10_07_07_09_35_288	Config	teacher1	Clicked on	Config	in PServices	
+G2024_10_07_07_09_38_425	View/Edit	teacher1	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_07_07_10_50_841	Config	teacher1	Clicked on	Config	in PServices	
+G2024_10_07_07_10_54_331	View/Edit	teacher1	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_07_07_12_08_992	teacher1	Logged out	by Click			
+G2024_10_07_07_13_53_914	admin	Logged in	14.162.199.128				
+G2024_10_07_07_13_59_664	Users	admin	Clicked on	Users	in P0120	
+G2024_10_07_07_14_52_718	admin	Logged in	116.98.249.176				
+G2024_10_07_07_14_56_482	View/Edit	admin	Clicked on	View/Edit	in P0120	35-1-1	
+G2024_10_07_07_15_04_598	View/Edit	admin	Clicked on	View/Edit	in P0120	1-1-1	
+G2024_10_07_07_15_06_884	Update	admin	Clicked on	Update	in PViewEdit	ID: 1-1-1	
+G2024_10_07_07_15_07_149	View/Edit	admin	Clicked on	View/Edit	in P0120	1-1-1	
+G2024_10_07_07_15_11_158	View/Edit	admin	Clicked on	View/Edit	in P0120	15-1-1	
+G2024_10_07_07_15_18_457	View/Edit	admin	Clicked on	View/Edit	in P0120	5-1-1	
+G2024_10_07_07_20_25_413	View/Edit	admin	Clicked on	View/Edit	in P0120	16-1-1	
+G2024_10_07_07_23_55_167	admin	Logged out	timeout			
+G2024_10_07_07_23_55_323	admin	Logged out	by Click			
+G2024_10_07_07_25_24_078	admin	Logged in	14.162.199.128				
+G2024_10_07_07_25_26_307	Users	admin	Clicked on	Users	in P0120	
+G2024_10_07_07_32_27_586	admin	Logged out	timeout			
+G2024_10_07_07_32_55_471	Services	admin	Clicked on	Services	in P0120	
+G2024_10_07_07_32_59_936	Config	admin	Clicked on	Config	in PServices	
+G2024_10_07_07_33_02_182	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_07_07_44_38_842	admin	Logged out	timeout			
+G2024_10_07_07_44_38_845	admin	Logged out	by Click			
+G2024_10_08_08_16_00_073	admin	Logged in	216.115.254.184				
+G2024_10_08_08_16_17_366	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_08_08_21_24_027	admin	Logged out	timeout			
+G2024_10_08_09_31_42_963		Unsuccessful login	116.98.249.176	teacher_01			
+G2024_10_08_09_32_00_052	teacher_01	Logged in	116.98.249.176				
+G2024_10_08_09_32_06_213	Users	teacher_01	Clicked on	Users	in P0120	
+G2024_10_08_09_35_01_842	Users	teacher_01	Clicked on	Users	in P0120	
+G2024_10_08_09_35_29_962	teacher_01	Logged in	116.98.249.176				
+G2024_10_08_09_35_34_516	Users	teacher_01	Clicked on	Users	in P0120	
+G2024_10_08_09_35_36_220	teacher_01	Logged out	by Click			
+G2024_10_08_09_35_47_931		Unsuccessful login	116.98.249.176	teacher_associate_011			
+G2024_10_08_09_36_19_394	teacher_203	Logged in	116.98.249.176				
+G2024_10_08_09_36_22_966	Users	teacher_203	Clicked on	Users	in P0120	
+G2024_10_08_09_43_35_692	teacher_203	Logged out	by Click			
+G2024_10_08_09_43_39_682	teacher_023	Logged in	116.98.249.176				
+G2024_10_08_09_43_44_166	Users	teacher_023	Clicked on	Users	in P0120	
+G2024_10_08_09_45_58_167	teacher_023	Logged out	by Click			
+G2024_10_08_09_46_02_315	teacher_023	Logged in	116.98.249.176				
+G2024_10_08_09_46_04_885	Users	teacher_023	Clicked on	Users	in P0120	
+G2024_10_08_09_46_25_406	Users	teacher_023	Clicked on	Users	in P0120	
+G2024_10_08_09_46_36_474	Users	teacher_023	Clicked on	Users	in P0120	
+G2024_10_08_09_46_45_903	Users	teacher_023	Clicked on	Users	in P0120	
+G2024_10_08_09_46_51_391	Users	teacher_023	Clicked on	Users	in P0120	
+G2024_10_08_09_47_32_034	Users	teacher_023	Clicked on	Users	in P0120	
+G2024_10_08_09_49_18_447	teacher_023	Logged out	by Click			
+G2024_10_08_09_55_38_725		Unsuccessful login	116.98.249.176	admin			
+G2024_10_08_09_55_42_416	admin	Logged in	116.98.249.176				
+G2024_10_08_09_55_46_391	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_09_56_57_998	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_09_57_48_646	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_09_58_19_173	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_09_59_05_046	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_06_29_530	admin	Logged out	by Click			
+G2024_10_08_10_10_57_240		Unsuccessful login	116.98.249.176	admin			
+G2024_10_08_10_11_02_318	admin	Logged in	116.98.248.223				
+G2024_10_08_10_11_05_370	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_11_57_787	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_12_20_708	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_14_31_709	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_16_02_332	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_16_48_841	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_20_14_527		Unsuccessful login	216.115.254.184	admin2			
+G2024_10_08_10_20_25_582	controller2	Logged in	216.115.254.184				
+G2024_10_08_10_20_34_444	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_08_10_20_36_841	Logs	controller2	Clicked on	Logs	in PServices	
+G2024_10_08_10_24_59_941	controller2	Logged out	timeout			
+G2024_10_08_10_25_00_124	controller2	Logged out	timeout			
+G2024_10_08_10_30_03_538	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_30_31_993	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_32_07_132	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_33_57_439	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_35_06_427	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_35_20_215	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_35_48_416	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_36_25_228	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_37_07_100	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_39_41_330	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_39_57_568	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_40_23_300	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_42_06_099	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_43_09_928	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_43_28_125	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_44_28_394	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_48_41_875	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_49_31_243	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_10_56_20_465	admin	Logged out	by Click			
+G2024_10_08_10_56_21_034	admin	Logged out	timeout			
+G2024_10_08_11_01_06_496	admin	Logged in	116.98.248.223				
+G2024_10_08_11_01_08_846	Users	admin	Clicked on	Users	in P0120	
+G2024_10_08_16_03_34_423	controller2	Logged in	216.115.254.184				
+G2024_10_08_16_03_41_959	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_08_16_03_44_695	Logs	controller2	Clicked on	Logs	in PServices	
+G2024_10_08_16_04_45_040	controller2	Logged out	by Click			
+G2024_10_09_04_18_35_540	controller2	Logged in	216.115.254.184				
+G2024_10_09_04_18_41_828	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_09_04_18_44_241	Logs	controller2	Clicked on	Logs	in PServices	
+G2024_10_09_04_19_30_797	controller2	Logged out	by Click			
+G2024_10_09_10_05_03_319	admin	Logged in	116.98.248.223				
+G2024_10_09_10_05_06_626	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_06_49_610	admin	Logged in	116.98.248.223				
+G2024_10_09_10_06_52_384	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_07_17_244	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_07_38_444	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_08_53_662	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_09_29_035	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_09_33_247	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_10_00_162	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_10_16_822	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_10_59_154	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_13_44_887	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_13_53_036	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_14_12_911	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_14_50_400	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_15_21_088	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_16_08_357	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_16_54_389	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_19_05_663	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_21_46_151	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_22_23_145	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_24_27_824	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_24_33_618	Services	admin	Clicked on	Services	in P0120	
+G2024_10_09_10_24_43_978	View/Edit	admin	Clicked on	View/Edit	in P0120	35-1-1	
+G2024_10_09_10_24_49_884	Services	admin	Clicked on	Services	in P0120	
+G2024_10_09_10_24_51_880	Config	admin	Clicked on	Config	in PServices	
+G2024_10_09_10_24_54_895	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_09_10_24_56_663	Config	admin	Clicked on	Config	in PServices	
+G2024_10_09_10_24_58_516	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_09_10_25_01_989	Config	admin	Clicked on	Config	in PServices	
+G2024_10_09_10_25_04_961	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::P0120	
+G2024_10_09_10_25_06_249	Config	admin	Clicked on	Config	in PServices	
+G2024_10_09_10_25_08_285	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::Buttons	
+G2024_10_09_10_25_09_641	Config	admin	Clicked on	Config	in PServices	
+G2024_10_09_10_25_40_030	Services	admin	Clicked on	Services	in P0120	
+G2024_10_09_10_25_56_317	View/Edit	admin	Clicked on	View/Edit	in P0120	35-1-1	
+G2024_10_09_10_29_18_848	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_29_27_837	View/Edit	admin	Clicked on	View/Edit	in P0120	35-1-1	
+G2024_10_09_10_41_17_416	admin	Logged out	by Click			
+G2024_10_09_10_41_22_546	admin	Logged in	116.98.248.223				
+G2024_10_09_10_41_25_060	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_41_51_127	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_44_08_295	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_45_55_972	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_45_57_438	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_45_59_213	View/Edit	admin	Clicked on	View/Edit	in P0120	64
+G2024_10_09_10_47_06_763	View/Edit	admin	Clicked on	View/Edit	in P0120	64
+G2024_10_09_10_48_50_385	View/Edit	admin	Clicked on	View/Edit	in P0120	64
+G2024_10_09_10_49_28_411	View/Edit	admin	Clicked on	View/Edit	in P0120	64
+G2024_10_09_10_55_54_495	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_10_55_58_383	Services	admin	Clicked on	Services	in P0120	
+G2024_10_09_10_56_03_106	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_11_00_15_186	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_12_06_52_725	admin	Logged in	14.162.199.128				
+G2024_10_09_12_06_56_379	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_12_07_09_026	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_12_07_14_995	admin	Logged out	by Click			
+G2024_10_09_12_07_20_129	teacher1	Logged in	14.162.199.128				
+G2024_10_09_12_07_22_883	Users	teacher1	Clicked on	Users	in P0120	
+G2024_10_09_12_08_28_442	Users	teacher1	Clicked on	Users	in P0120	
+G2024_10_09_12_08_32_772	teacher1	Logged out	by Click			
+G2024_10_09_12_08_36_929		Unsuccessful login	14.162.199.128	NewProfessorrrr01			
+G2024_10_09_12_09_00_692		Unsuccessful login	14.162.199.128	teacherassociate011			
+G2024_10_09_12_09_32_586	admin	Logged in	14.162.199.128				
+G2024_10_09_12_09_36_522	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_12_09_57_402	Services	admin	Clicked on	Services	in P0120	
+G2024_10_09_12_09_59_282	Config	admin	Clicked on	Config	in PServices	
+G2024_10_09_12_10_01_581	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_09_12_10_04_223	Config	admin	Clicked on	Config	in PServices	
+G2024_10_09_12_10_05_782	Services	admin	Clicked on	Services	in P0120	
+G2024_10_09_12_10_09_009	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_12_10_19_237	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_12_10_32_235	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_12_10_36_345	Users	admin	Clicked on	Users	in P0120	
+G2024_10_09_12_10_54_587	Services	admin	Clicked on	Services	in P0120	
+G2024_10_09_12_11_08_947	admin	Logged out	by Click			
+G2024_10_09_12_11_09_186	admin	Logged out	timeout			
+G2024_10_09_12_11_09_254	admin	Logged out	by Click			
+G2024_10_09_12_11_19_750	teacher1	Logged in	14.162.199.128				
+G2024_10_09_12_11_23_034	Users	teacher1	Clicked on	Users	in P0120	
+G2024_10_09_12_11_27_180	Users	teacher1	Clicked on	Users	in P0120	
+G2024_10_09_12_11_31_958	teacher1	Logged out	by Click			
+G2024_10_09_12_12_35_368	admin	Logged in	14.162.199.128				
+G2024_10_09_12_12_37_643	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_09_12_12_47_287	View/Edit	admin	Clicked on	View/Edit	in P0120	35-1-1	
+G2024_10_09_12_13_08_642	Update	admin	Clicked on	Update	in PViewEdit	ID: 35-1-1	
+G2024_10_09_12_13_08_888	View/Edit	admin	Clicked on	View/Edit	in P0120	35-1-1	
+G2024_10_09_12_13_11_436	Update	admin	Clicked on	Update	in PViewEdit	ID: 35-1-1	
+G2024_10_09_12_13_11_682	View/Edit	admin	Clicked on	View/Edit	in P0120	35-1-1	
+G2024_10_09_12_13_14_887	View/Edit	admin	Clicked on	View/Edit	in P0120	35-1-1	
+G2024_10_09_12_14_18_546	Services	admin	Clicked on	Services	in P0120	
+G2024_10_09_12_14_20_156	Config	admin	Clicked on	Config	in PServices	
+G2024_10_09_12_14_21_748	Services	admin	Clicked on	Services	in P0120	
+G2024_10_09_12_14_22_964	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_09_12_14_24_850	admin	Logged out	by Click			
+G2024_10_09_12_14_28_874	admin	Logged in	14.162.199.128				
+G2024_10_09_12_14_31_018	Services	admin	Clicked on	Services	in P0120	
+G2024_10_09_12_14_32_015	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_09_17_01_47_412	controller2	Logged in	216.115.254.184				
+G2024_10_09_17_01_53_317	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_09_17_01_55_683	Logs	controller2	Clicked on	Logs	in PServices	
+G2024_10_09_17_05_10_825	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_09_17_05_17_603	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_09_17_05_21_040	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_09_17_05_26_183	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_09_17_07_09_856	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_09_17_07_39_999	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_09_17_08_03_188	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_09_17_08_04_778	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_09_17_08_14_895	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::Running States Settings	
+G2024_10_09_17_08_20_228	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_09_17_08_23_974	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_09_17_08_26_426	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_09_17_08_33_063	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::COMMON TEMPORARY MESSAGE	
+G2024_10_09_17_09_27_726	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_09_17_09_34_370	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::COMMON TEMPORARY MESSAGE	
+G2024_10_09_17_09_36_851	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_09_17_10_25_700	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::COMMON TEMPORARY MESSAGE	
+G2024_10_09_17_11_19_132	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::COMMON TEMPORARY MESSAGE	
+G2024_10_09_17_12_40_627	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_09_17_12_50_640	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::Buttons	
+G2024_10_09_17_13_01_935	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_09_17_13_07_461	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_09_17_13_13_582	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_09_17_13_16_751	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_09_17_13_22_036	Password	controller2	Clicked on	Passwords	in PServices	
+G2024_10_09_17_13_26_788	controller2	Logged out	by Click			
+G2024_10_09_17_22_42_078	controller2	Logged in	216.115.254.184				
+G2024_10_09_17_22_44_741	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_09_17_22_46_667	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_09_17_22_52_808	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::COMMON TEMPORARY MESSAGE	
+G2024_10_09_17_23_35_896	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::COMMON TEMPORARY MESSAGE	
+G2024_10_09_17_23_38_941	controller2	Logged out	by Click			
+G2024_10_09_17_23_39_132	controller2	Logged out	timeout			
+G2024_10_09_17_24_54_002	controller2	Logged in	216.115.254.184				
+G2024_10_09_17_24_56_547	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_09_17_24_59_756	Logs	controller2	Clicked on	Logs	in PServices	
+G2024_10_09_17_25_02_455	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_09_17_25_07_250	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_09_17_25_11_363	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::COMMON TEMPORARY MESSAGE	
+G2024_10_09_17_25_28_975	controller2	Logged out	by Click			
+G2024_10_09_17_51_49_894	controller2	Logged in	216.115.254.184				
+G2024_10_09_17_51_54_457	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_09_17_51_58_418	Password	controller2	Clicked on	Passwords	in PServices	
+G2024_10_09_17_52_02_671	controller2	Logged out	by Click			
+G2024_10_09_17_52_12_380	admin	Logged in	216.115.254.184				
+G2024_10_09_17_52_15_902	Services	admin	Clicked on	Services	in P0120	
+G2024_10_09_17_52_21_923	Password	admin	Clicked on	Passwords	in PServices	
+G2024_10_09_20_03_12_426	admin	Logged out	by Click			
+G2024_10_09_20_48_40_717	controller2	Logged in	216.115.254.184				
+G2024_10_09_20_48_43_636	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_09_20_48_45_616	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_09_20_48_48_679	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::COMMON TEMPORARY MESSAGE	
+G2024_10_09_20_48_51_570	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_09_20_48_54_826	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_09_20_50_09_385	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_09_20_50_18_400	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_09_20_50_25_262	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::COMMON TEMPORARY MESSAGE	
+G2024_10_09_20_50_28_274	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_09_20_50_32_655	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_09_20_50_35_141	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_09_20_50_39_505	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_09_20_54_18_545	controller2	Logged out	timeout			
+G2024_10_10_07_58_05_794	admin	Logged in	14.162.199.128				
+G2024_10_10_07_58_08_969	Users	admin	Clicked on	Users	in P0120	
+G2024_10_10_07_58_28_324	admin	Logged out	by Click			
+G2024_10_10_07_58_41_456		Unsuccessful login	14.162.199.128	teacher01			
+G2024_10_10_07_58_55_328		Unsuccessful login	14.162.199.128	teacher_01			
+G2024_10_10_07_59_06_267	teacher_01	Logged in	116.98.249.218				
+G2024_10_10_07_59_09_146	teacher_01	Logged out	by Click			
+G2024_10_10_07_59_21_664		Unsuccessful login	14.162.199.128	teacher_01			
+G2024_10_10_07_59_47_361	teacher_01	Logged in	116.98.249.218				
+G2024_10_10_07_59_49_860	teacher_01	Logged out	by Click			
+G2024_10_10_07_59_58_126	teacher_01	Logged in	14.162.199.128				
+G2024_10_10_08_00_00_862	Users	teacher_01	Clicked on	Users	in P0120	
+G2024_10_10_08_00_22_357	admin	Logged in	116.98.249.218				
+G2024_10_10_08_00_58_114	Users	teacher_01	Clicked on	Users	in P0120	
+G2024_10_10_08_01_05_325	Users	teacher_01	Clicked on	Users	in P0120	
+G2024_10_10_08_01_11_914	Users	teacher_01	Clicked on	Users	in P0120	
+G2024_10_10_08_01_37_620	teacher_01	Logged out	by Click			
+G2024_10_10_08_01_57_789	Users	admin	Clicked on	Users	in P0120	
+G2024_10_10_08_02_09_916		Unsuccessful login	14.162.199.128	teacher_018			
+G2024_10_10_08_02_16_625	teacher_18	Logged in	14.162.199.128				
+G2024_10_10_08_02_19_196	Users	teacher_18	Clicked on	Users	in P0120	
+G2024_10_10_08_02_24_272	teacher_18	Logged out	by Click			
+G2024_10_10_08_02_40_485		Unsuccessful login	14.162.199.128	teacherassociate_18			
+G2024_10_10_08_03_41_543		Unsuccessful login	14.162.199.128	teacherassociate_21			
+G2024_10_10_08_04_38_966		Unsuccessful login	14.162.199.128	teacherassociate_011			
+G2024_10_10_08_05_33_461	teacher_011	Logged in	14.162.199.128				
+G2024_10_10_08_05_36_336	Users	teacher_011	Clicked on	Users	in P0120	
+G2024_10_10_08_06_23_729	View/Edit	teacher_011	Clicked on	View/Edit	in P0120	37-1-1	
+G2024_10_10_08_06_38_045	Search	teacher_011	Clicked on	Search	in P0120	
+G2024_10_10_08_06_49_884	teacher_011	Logged out	by Click			
+G2024_10_10_08_06_54_473		Unsuccessful login	14.162.199.128	admin			
+G2024_10_10_08_06_58_431	admin	Logged in	14.162.199.128				
+G2024_10_10_08_07_03_953	View/Edit	admin	Clicked on	View/Edit	in P0120	37-1-1	
+G2024_10_10_08_07_24_233	View/Edit	admin	Clicked on	View/Edit	in P0120	37-1-1	
+G2024_10_10_08_07_43_057	Services	admin	Clicked on	Services	in P0120	
+G2024_10_10_08_07_44_930	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_10_08_07_59_621	Services	admin	Clicked on	Services	in P0120	
+G2024_10_10_08_08_01_630	Config	admin	Clicked on	Config	in PServices	
+G2024_10_10_08_08_04_196	Services	admin	Clicked on	Services	in P0120	
+G2024_10_10_08_08_05_553	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_10_08_08_08_083	Services	admin	Clicked on	Services	in P0120	
+G2024_10_10_08_08_10_412	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_10_08_08_13_137	Services	admin	Clicked on	Services	in P0120	
+G2024_10_10_08_08_16_581	Password	admin	Clicked on	Passwords	in PServices	
+G2024_10_10_08_08_33_609	Services	admin	Clicked on	Services	in P0120	
+G2024_10_10_08_08_45_863	Services	admin	Clicked on	Services	in P0120	
+G2024_10_10_08_09_00_877	admin	Logged out	by Click			
+G2024_10_10_08_10_14_427	Services	admin	Clicked on	Services	in P0120	
+G2024_10_10_08_10_23_092	Services	admin	Clicked on	Services	in P0120	
+G2024_10_10_08_10_33_160	Search	admin	Clicked on	Search	in P0120	
+G2024_10_10_08_11_59_846	admin	Logged out	by Click			
+G2024_10_10_08_12_04_207	admin	Logged in	14.162.199.128				
+G2024_10_10_08_12_06_756	Services	admin	Clicked on	Services	in P0120	
+G2024_10_10_08_12_07_999	Config	admin	Clicked on	Config	in PServices	
+G2024_10_10_08_12_11_266	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_10_08_12_23_550	Config	admin	Clicked on	Config	in PServices	
+G2024_10_10_08_12_25_293	Services	admin	Clicked on	Services	in P0120	
+G2024_10_10_08_12_30_300	View/Edit	admin	Clicked on	View/Edit	in P0120	37-1-1	
+G2024_10_10_10_18_50_109	controller1	Logged in	216.115.254.184				
+G2024_10_10_10_18_53_631	Services	controller1	Clicked on	Services	in P0120	
+G2024_10_10_10_18_56_224	Config	controller1	Clicked on	Config	in PServices	
+G2024_10_10_10_18_58_925	Services	controller1	Clicked on	Services	in P0120	
+G2024_10_10_10_19_00_694	Logs	controller1	Clicked on	Logs	in PServices	
+G2024_10_10_10_19_25_862	Services	controller1	Clicked on	Services	in P0120	
+G2024_10_10_10_19_30_826	Config	controller1	Clicked on	Config	in PServices	
+G2024_10_10_10_19_38_295	View/Edit	controller1	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_10_10_19_47_876	Config	controller1	Clicked on	Config	in PServices	
+G2024_10_10_10_20_36_494	View/Edit	controller1	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_10_10_21_05_248	View/Edit	controller1	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_10_10_21_16_186	View/Edit	controller1	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_10_10_21_25_113	Config	controller1	Clicked on	Config	in PServices	
+G2024_10_10_10_21_29_120	View/Edit	controller1	Clicked on	View/Edit	in PConfig	Website Configuration::COMMON TEMPORARY MESSAGE	
+G2024_10_10_10_21_55_552	View/Edit	controller1	Clicked on	View/Edit	in PConfig	Website Configuration::COMMON TEMPORARY MESSAGE	
+G2024_10_10_10_21_58_599	controller1	Logged out	by Click			
+G2024_10_10_10_23_31_208	admin	Logged in	116.98.248.223				
+G2024_10_10_10_23_34_974	Users	admin	Clicked on	Users	in P0120	
+G2024_10_10_10_23_44_769	Users	admin	Clicked on	Users	in P0120	
+G2024_10_10_10_23_45_943	Services	admin	Clicked on	Services	in P0120	
+G2024_10_10_10_23_47_009	Password	admin	Clicked on	Passwords	in PServices	
+G2024_10_10_10_23_48_158	Services	admin	Clicked on	Services	in P0120	
+G2024_10_10_10_23_50_843	Users	admin	Clicked on	Users	in P0120	
+G2024_10_10_10_24_00_384	Services	admin	Clicked on	Services	in P0120	
+G2024_10_10_10_24_03_045	Config	admin	Clicked on	Config	in PServices	
+G2024_10_10_10_24_05_707	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_10_10_24_07_251	Config	admin	Clicked on	Config	in PServices	
+G2024_10_10_10_24_10_199	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_10_10_24_19_694	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_10_10_24_21_765	Config	admin	Clicked on	Config	in PServices	
+G2024_10_10_10_24_22_843	Services	admin	Clicked on	Services	in P0120	
+G2024_10_10_10_24_27_009	Users	admin	Clicked on	Users	in P0120	
+G2024_10_10_10_25_18_079	Users	admin	Clicked on	Users	in P0120	
+G2024_10_10_10_25_25_593	Users	admin	Clicked on	Users	in P0120	
+G2024_10_10_10_25_44_529	Users	admin	Clicked on	Users	in P0120	
+G2024_10_10_10_45_51_644	teacher01	Logged in	116.98.248.223				
+G2024_10_10_10_45_54_793	teacher01	Logged out	by Click			
+G2024_10_10_10_46_02_784	teacherassociate011	Logged in	116.98.248.223				
+G2024_10_10_10_46_06_705	Users	teacherassociate011	Clicked on	Users	in P0120	
+G2024_10_10_10_47_35_472	Users	teacherassociate011	Clicked on	Users	in P0120	
+G2024_10_10_10_47_35_810	teacherassociate011	Logged out	timeout			
+G2024_10_10_10_47_36_335	teacherassociate011	Logged out	by Click			
+G2024_10_10_10_48_10_509		Unsuccessful login	116.98.248.223	teacher011			
+G2024_10_10_10_48_48_322	teacherassociate011	Logged in	116.98.248.223				
+G2024_10_10_10_48_52_239	Users	teacherassociate011	Clicked on	Users	in P0120	
+G2024_10_10_10_53_44_006	teacherassociate011	Logged out	timeout			
+G2024_10_10_10_53_52_048	teacher01	Logged in	116.98.248.223				
+G2024_10_10_10_53_55_845	Users	teacher01	Clicked on	Users	in P0120	
+G2024_10_10_10_53_58_747	teacher01	Logged out	by Click			
+G2024_10_10_10_54_15_397	teacherassociate011	Logged in	116.98.248.223				
+G2024_10_10_10_54_19_309	Users	teacherassociate011	Clicked on	Users	in P0120	
+G2024_10_10_10_54_52_090	Users	teacherassociate011	Clicked on	Users	in P0120	
+G2024_10_10_10_54_55_127	teacherassociate011	Logged out	by Click			
+G2024_10_10_10_55_01_867	teacher01	Logged in	116.98.248.223				
+G2024_10_10_10_55_04_530	Users	teacher01	Clicked on	Users	in P0120	
+G2024_10_10_10_56_04_837	teacher01	Logged out	timeout			
+G2024_10_10_10_59_37_863	admin	Logged in	116.98.248.223				
+G2024_10_10_10_59_40_147	Users	admin	Clicked on	Users	in P0120	
+G2024_10_10_10_59_42_099	admin	Logged out	by Click			
+G2024_10_10_10_59_47_069	teacher01	Logged in	116.98.248.223				
+G2024_10_10_10_59_49_597	Users	teacher01	Clicked on	Users	in P0120	
+G2024_10_10_10_59_53_523	teacher01	Logged out	by Click			
+G2024_10_10_11_00_28_592	admin	Logged in	116.98.248.223				
+G2024_10_10_11_00_32_589	View/Edit	admin	Clicked on	View/Edit	in P0120	38-1-1	
+G2024_10_10_11_02_17_063	View/Edit	admin	Clicked on	View/Edit	in P0120	38-1-1	
+G2024_10_10_11_03_20_058	View/Edit	admin	Clicked on	View/Edit	in P0120	38-1-1	
+G2024_10_10_11_04_04_123	View/Edit	admin	Clicked on	View/Edit	in P0120	38-1-1	
+G2024_10_10_11_04_45_610	View/Edit	admin	Clicked on	View/Edit	in P0120	38-1-1	
+G2024_10_10_11_06_45_010	View/Edit	admin	Clicked on	View/Edit	in P0120	38-1-1	
+G2024_10_10_11_08_13_429	View/Edit	admin	Clicked on	View/Edit	in P0120	38-1-1	
+G2024_10_10_11_08_19_585	Services	admin	Clicked on	Services	in P0120	
+G2024_10_10_11_08_21_464	Config	admin	Clicked on	Config	in PServices	
+G2024_10_10_11_08_23_673	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_10_11_08_30_474	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_10_11_08_31_573	Config	admin	Clicked on	Config	in PServices	
+G2024_10_10_11_08_33_249	Services	admin	Clicked on	Services	in P0120	
+G2024_10_10_11_08_36_855	View/Edit	admin	Clicked on	View/Edit	in P0120	43-1-1	
+G2024_10_10_11_09_50_701	View/Edit	admin	Clicked on	View/Edit	in P0120	43-1-1	
+G2024_10_10_11_10_51_598	View/Edit	admin	Clicked on	View/Edit	in P0120	43-1-1	
+G2024_10_10_11_12_07_571	View/Edit	admin	Clicked on	View/Edit	in P0120	43-1-1	
+G2024_10_10_11_12_37_269	View/Edit	admin	Clicked on	View/Edit	in P0120	43-1-1	
+G2024_10_10_11_15_13_974	View/Edit	admin	Clicked on	View/Edit	in P0120	43-1-1	
+G2024_10_10_11_15_56_253	View/Edit	admin	Clicked on	View/Edit	in P0120	43-1-1	
+G2024_10_10_11_16_32_981	View/Edit	admin	Clicked on	View/Edit	in P0120	43-1-1	
+G2024_10_10_11_17_07_526	View/Edit	admin	Clicked on	View/Edit	in P0120	43-1-1	
+G2024_10_10_11_17_53_210	View/Edit	admin	Clicked on	View/Edit	in P0120	43-1-1	
+G2024_10_10_11_19_29_450	View/Edit	admin	Clicked on	View/Edit	in P0120	43-1-1	
+G2024_10_10_11_27_01_466	admin	Logged out	by Click			
+G2024_10_10_12_48_03_357	controller2	Logged in	216.115.254.184				
+G2024_10_10_12_48_06_699	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_10_12_48_10_376	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_10_12_48_15_875	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_10_12_48_30_651	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_10_12_48_42_520	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_10_12_48_45_717	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_10_12_49_23_959	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::Running States Settings	
+G2024_10_10_12_49_27_739	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_10_12_49_34_108	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_10_12_50_09_094	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_10_12_50_42_981	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_10_12_50_44_877	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_10_12_50_49_853	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_10_12_51_00_283	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_10_12_51_06_188	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::PS05	
+G2024_10_10_12_51_31_508	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_10_12_51_38_402	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::COMMON TEMPORARY MESSAGE	
+G2024_10_10_12_51_49_751	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_10_12_51_55_594	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::Logs	
+G2024_10_10_12_51_59_987	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_10_12_52_03_419	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::Logs	
+G2024_10_10_12_52_07_128	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_10_12_52_12_013	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_10_12_52_16_654	Logs	controller2	Clicked on	Logs	in PServices	
+G2024_10_10_12_52_19_852	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_10_12_52_22_765	Logs	controller2	Clicked on	Logs	in PServices	
+G2024_10_10_12_52_25_972	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_10_12_52_30_686	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_10_12_52_43_610	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_10_12_52_49_415	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_10_12_52_56_746	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::PS01	
+G2024_10_10_12_53_01_239	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_10_12_53_05_122	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::PS05	
+G2024_10_10_12_53_35_447	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_10_12_54_05_003	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::P0120	
+G2024_10_10_12_54_10_700	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_10_12_54_19_107	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_10_12_54_39_794	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_10_12_54_43_733	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_10_13_00_13_113	controller2	Logged out	by Click			
+G2024_10_12_07_10_28_990	controller2	Logged in	216.115.254.184				
+G2024_10_12_07_10_32_435	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_12_07_10_35_241	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_12_07_10_40_727	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_12_07_14_08_048	controller2	Logged out	timeout			
+G2024_10_12_07_22_39_638	controller2	Logged in	216.115.254.184				
+G2024_10_12_07_22_42_186	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_12_07_22_43_826	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_12_07_22_50_072	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_12_07_22_56_665	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_12_07_23_02_574	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::COMMON TEMPORARY MESSAGE	
+G2024_10_12_07_24_02_793	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_12_07_24_05_803	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_12_07_27_36_062	controller2	Logged out	timeout			
+G2024_10_12_07_46_24_534	controller2	Logged in	216.115.254.184				
+G2024_10_12_07_46_27_311	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_12_07_46_29_316	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_12_07_46_34_317	View/Edit	controller2	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_12_07_51_13_235	controller2	Logged out	by Click			
+G2024_10_13_03_51_49_513	admin	Logged in	14.162.199.128				
+G2024_10_13_03_51_53_661	View/Edit	admin	Clicked on	View/Edit	in P0120	55-1-1	
+G2024_10_13_03_53_28_910	Users	admin	Clicked on	Users	in P0120	
+G2024_10_13_03_53_37_919	Users	admin	Clicked on	Users	in P0120	
+G2024_10_13_03_54_55_021	Users	admin	Clicked on	Users	in P0120	
+G2024_10_13_03_54_58_329	admin	Logged out	by Click			
+G2024_10_13_03_55_04_358		Unsuccessful login	14.162.199.128	teacher01			
+G2024_10_13_03_55_10_219	teacher01	Logged in	14.162.199.128				
+G2024_10_13_03_55_13_122	Users	teacher01	Clicked on	Users	in P0120	
+G2024_10_13_03_55_20_873	Users	teacher01	Clicked on	Users	in P0120	
+G2024_10_13_03_56_51_378	teacher01	Logged out	by Click			
+G2024_10_13_03_59_57_320	teacherassociate011	Logged in	14.162.199.128				
+G2024_10_13_04_00_00_352	Users	teacherassociate011	Clicked on	Users	in P0120	
+G2024_10_13_04_10_47_945	View/Edit	teacherassociate011	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_13_04_10_48_318	teacherassociate011	Logged out	timeout			
+G2024_10_13_04_10_48_580	teacherassociate011	Logged out	by Click			
+G2024_10_13_04_10_53_411		Unsuccessful login	14.162.199.128	admin			
+G2024_10_13_04_10_57_925	admin	Logged in	14.162.199.128				
+G2024_10_13_04_11_02_121	Users	admin	Clicked on	Users	in P0120	
+G2024_10_13_04_12_38_322	Services	admin	Clicked on	Services	in P0120	
+G2024_10_13_04_12_39_837	Config	admin	Clicked on	Config	in PServices	
+G2024_10_13_04_12_43_090	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_13_04_12_45_092	Config	admin	Clicked on	Config	in PServices	
+G2024_10_13_04_12_48_514	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_13_04_12_57_930	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_13_04_12_59_567	Config	admin	Clicked on	Config	in PServices	
+G2024_10_13_04_13_00_984	Services	admin	Clicked on	Services	in P0120	
+G2024_10_13_04_13_06_617	View/Edit	admin	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_04_13_10_250	Users	admin	Clicked on	Users	in P0120	
+G2024_10_13_04_13_19_800	Users	admin	Clicked on	Users	in P0120	
+G2024_10_13_04_13_48_397	Services	admin	Clicked on	Services	in P0120	
+G2024_10_13_04_13_50_716	Config	admin	Clicked on	Config	in PServices	
+G2024_10_13_04_13_52_464	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_13_04_13_57_452	Config	admin	Clicked on	Config	in PServices	
+G2024_10_13_04_14_01_219	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::COMMON TEMPORARY MESSAGE	
+G2024_10_13_04_14_03_163	Config	admin	Clicked on	Config	in PServices	
+G2024_10_13_04_14_08_629	Services	admin	Clicked on	Services	in P0120	
+G2024_10_13_04_14_13_306	admin	Logged out	by Click			
+G2024_10_13_04_14_22_280	teacherassociate011	Logged in	14.162.199.128				
+G2024_10_13_04_14_32_063	Services	teacherassociate011	Clicked on	Services	in P0120	
+G2024_10_13_04_14_34_482	Config	teacherassociate011	Clicked on	Config	in PServices	
+G2024_10_13_04_14_36_347	Services	teacherassociate011	Clicked on	Services	in P0120	
+G2024_10_13_04_15_05_413	Search	teacherassociate011	Clicked on	Search	in P0120	
+G2024_10_13_04_15_10_283	Users	teacherassociate011	Clicked on	Users	in P0120	
+G2024_10_13_04_15_19_590	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_04_15_34_801	teacherassociate011	Logged out	by Click			
+G2024_10_13_04_15_56_163	teacherassociate013	Logged in	14.162.199.128				
+G2024_10_13_04_16_00_245	Services	teacherassociate013	Clicked on	Services	in P0120	
+G2024_10_13_04_16_13_012	Users	teacherassociate013	Clicked on	Users	in P0120	
+G2024_10_13_04_16_19_330	View/Edit	teacherassociate013	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_04_16_26_812	View/Edit	teacherassociate013	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_04_16_33_021	Services	teacherassociate013	Clicked on	Services	in P0120	
+G2024_10_13_04_17_37_149	teacherassociate013	Logged out	by Click			
+G2024_10_13_04_19_51_947	teacherassociate023	Logged in	14.162.199.128				
+G2024_10_13_04_19_54_804	Users	teacherassociate023	Clicked on	Users	in P0120	
+G2024_10_13_04_20_01_675	Services	teacherassociate023	Clicked on	Services	in P0120	
+G2024_10_13_04_20_40_686	View/Edit	teacherassociate023	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_04_20_46_317	Update	teacherassociate023	Clicked on	Update	in PViewEdit	ID: 56-1-1	
+G2024_10_13_04_20_46_705	View/Edit	teacherassociate023	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_04_20_49_809	Update	teacherassociate023	Clicked on	Update	in PViewEdit	ID: 56-1-1	
+G2024_10_13_04_20_50_103	View/Edit	teacherassociate023	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_04_20_51_348	Update	teacherassociate023	Clicked on	Update	in PViewEdit	ID: 56-1-1	
+G2024_10_13_04_20_51_718	View/Edit	teacherassociate023	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_04_21_47_995	Update	teacherassociate023	Clicked on	Update	in PViewEdit	ID: 56-1-1	
+G2024_10_13_04_21_48_277	View/Edit	teacherassociate023	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_04_21_52_403	Users	teacherassociate023	Clicked on	Users	in P0120	
+G2024_10_13_04_21_55_154	teacherassociate023	Logged out	by Click			
+G2024_10_13_04_22_03_289	teacher03	Logged in	14.162.199.128				
+G2024_10_13_04_22_06_960	View/Edit	teacher03	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_04_22_19_818	Users	teacher03	Clicked on	Users	in P0120	
+G2024_10_13_04_22_29_252	Users	teacher03	Clicked on	Users	in P0120	
+G2024_10_13_04_22_59_192	Services	teacher03	Clicked on	Services	in P0120	
+G2024_10_13_04_23_02_616	Logs	teacher03	Clicked on	Logs	in PServices	
+G2024_10_13_04_23_04_261	Services	teacher03	Clicked on	Services	in P0120	
+G2024_10_13_04_23_05_627	Password	teacher03	Clicked on	Passwords	in PServices	
+G2024_10_13_04_23_07_401	Services	teacher03	Clicked on	Services	in P0120	
+G2024_10_13_04_23_13_068	teacher03	Logged out	by Click			
+G2024_10_13_08_46_39_948		Unsuccessful login	116.98.248.223	admin			
+G2024_10_13_08_46_43_304	admin	Logged in	116.98.248.223				
+G2024_10_13_08_46_46_917	Users	admin	Clicked on	Users	in P0120	
+G2024_10_13_08_46_53_308	Users	admin	Clicked on	Users	in P0120	
+G2024_10_13_08_49_12_000	Users	admin	Clicked on	Users	in P0120	
+G2024_10_13_08_49_18_244	Users	admin	Clicked on	Users	in P0120	
+G2024_10_13_08_49_23_697	Users	admin	Clicked on	Users	in P0120	
+G2024_10_13_08_49_32_565	Users	admin	Clicked on	Users	in P0120	
+G2024_10_13_08_49_48_352	Services	admin	Clicked on	Services	in P0120	
+G2024_10_13_08_49_52_264	Users	admin	Clicked on	Users	in P0120	
+G2024_10_13_08_57_56_889	admin	Logged in	116.98.248.223				
+G2024_10_13_08_57_59_706	Users	admin	Clicked on	Users	in P0120	
+G2024_10_13_08_59_03_750	teacher01	Logged in	116.98.248.223				
+G2024_10_13_08_59_06_534	teacher01	Logged out	by Click			
+G2024_10_13_08_59_32_107	teacherassociate011	Logged in	116.98.248.223				
+G2024_10_13_08_59_42_819	teacherassociate011	Logged out	by Click			
+G2024_10_13_08_59_52_843	teacherassociate011	Logged in	116.98.248.223				
+G2024_10_13_08_59_58_846	Services	teacherassociate011	Clicked on	Services	in P0120	
+G2024_10_13_09_00_00_781	Config	teacherassociate011	Clicked on	Config	in PServices	
+G2024_10_13_09_01_02_142	teacherassociate011	Logged out	timeout			
+G2024_10_13_09_01_02_657	teacherassociate011	Logged out	by Click			
+G2024_10_13_09_01_53_214	teacherassociate011	Logged in	116.98.248.223				
+G2024_10_13_09_01_56_926	Services	teacherassociate011	Clicked on	Services	in P0120	
+G2024_10_13_09_01_58_205	Config	teacherassociate011	Clicked on	Config	in PServices	
+G2024_10_13_09_03_44_919	teacherassociate011	Logged out	timeout			
+G2024_10_13_09_03_45_080	teacherassociate011	Logged out	by Click			
+G2024_10_13_09_03_56_232	teacherassociate011	Logged in	116.98.248.223				
+G2024_10_13_09_03_59_464	Services	teacherassociate011	Clicked on	Services	in P0120	
+G2024_10_13_09_04_01_207	Config	teacherassociate011	Clicked on	Config	in PServices	
+G2024_10_13_09_05_02_229	Config	teacherassociate011	Clicked on	Config	in PServices	
+G2024_10_13_09_05_19_084	Config	teacherassociate011	Clicked on	Config	in PServices	
+G2024_10_13_09_05_20_310	Services	teacherassociate011	Clicked on	Services	in P0120	
+G2024_10_13_09_05_22_163	teacherassociate011	Logged out	by Click			
+G2024_10_13_09_06_12_121	teacherassociate011	Logged in	116.98.248.223				
+G2024_10_13_09_06_14_883	Users	teacherassociate011	Clicked on	Users	in P0120	
+G2024_10_13_09_06_16_375	teacherassociate011	Logged out	by Click			
+G2024_10_13_09_06_33_188	teacherassociate011	Logged in	116.98.248.223				
+G2024_10_13_09_06_36_178	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_09_06_37_653	Update	teacherassociate011	Clicked on	Update	in PViewEdit	ID: 56-1-1	
+G2024_10_13_09_06_37_916	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_09_06_39_305	Update	teacherassociate011	Clicked on	Update	in PViewEdit	ID: 56-1-1	
+G2024_10_13_09_06_39_576	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_09_06_39_999	Update	teacherassociate011	Clicked on	Update	in PViewEdit	ID: 56-1-1	
+G2024_10_13_09_06_40_267	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_09_06_41_495	Update	teacherassociate011	Clicked on	Update	in PViewEdit	ID: 56-1-1	
+G2024_10_13_09_06_41_799	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_09_06_42_904	Update	teacherassociate011	Clicked on	Update	in PViewEdit	ID: 56-1-1	
+G2024_10_13_09_06_43_174	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_09_08_01_786	teacherassociate011	Logged out	timeout			
+G2024_10_13_09_08_02_018	teacherassociate011	Logged out	by Click			
+G2024_10_13_09_08_27_716	teacherassociate011	Logged in	116.98.248.223				
+G2024_10_13_09_08_30_655	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_09_08_31_564	Update	teacherassociate011	Clicked on	Update	in PViewEdit	ID: 56-1-1	
+G2024_10_13_09_08_31_833	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_09_08_38_277	Update	teacherassociate011	Clicked on	Update	in PViewEdit	ID: 56-1-1	
+G2024_10_13_09_08_38_555	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_09_08_39_854	Update	teacherassociate011	Clicked on	Update	in PViewEdit	ID: 56-1-1	
+G2024_10_13_09_08_40_201	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_09_08_43_779	Update	teacherassociate011	Clicked on	Update	in PViewEdit	ID: 56-1-1	
+G2024_10_13_09_08_44_051	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_09_08_47_577	Update	teacherassociate011	Clicked on	Update	in PViewEdit	ID: 56-1-1	
+G2024_10_13_09_08_47_865	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_09_09_06_146	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_09_09_09_549	Update	teacherassociate011	Clicked on	Update	in PViewEdit	ID: 56-1-1	
+G2024_10_13_09_09_09_821	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_09_09_11_833	Update	teacherassociate011	Clicked on	Update	in PViewEdit	ID: 56-1-1	
+G2024_10_13_09_09_12_127	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_09_09_53_899	Update	teacherassociate011	Clicked on	Update	in PViewEdit	ID: 56-1-1	
+G2024_10_13_09_09_54_162	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_09_10_00_270	Update	teacherassociate011	Clicked on	Update	in PViewEdit	ID: 56-1-1	
+G2024_10_13_09_10_00_564	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_09_10_05_728	Update	teacherassociate011	Clicked on	Update	in PViewEdit	ID: 56-1-1	
+G2024_10_13_09_10_05_993	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_09_10_16_274	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_09_10_26_107	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_09_10_26_490	teacherassociate011	Logged out	timeout			
+G2024_10_13_09_10_26_981	teacherassociate011	Logged out	by Click			
+G2024_10_13_09_10_33_680	teacherassociate011	Logged in	116.98.248.223				
+G2024_10_13_09_10_36_714	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	55-1-1	
+G2024_10_13_09_10_40_089	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_09_10_40_938	Update	teacherassociate011	Clicked on	Update	in PViewEdit	ID: 56-1-1	
+G2024_10_13_09_10_41_213	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_09_11_18_551	View/Edit	teacherassociate011	Clicked on	View/Edit	in P0120	56-1-1	
+G2024_10_13_09_11_20_082	teacherassociate011	Logged out	by Click			
+G2024_10_13_09_12_35_713	admin	Logged out	timeout			
+G2024_10_13_09_12_35_985	admin	Logged out	by Click			
+G2024_10_13_09_12_36_332	admin	Logged out	timeout			
+G2024_10_13_09_12_36_629	admin	Logged out	by Click			
+G2024_10_13_09_49_55_101	admin	Logged in	116.98.248.223				
+G2024_10_13_09_49_57_898	Users	admin	Clicked on	Users	in P0120	
+G2024_10_13_09_53_51_120	admin	Logged in	216.115.254.184				
+G2024_10_13_09_53_55_807	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_13_09_55_06_375	admin	Logged out	timeout			
+G2024_10_13_09_55_06_543	admin	Logged out	by Click			
+G2024_10_13_09_55_46_056	admin	Logged in	14.162.199.128				
+G2024_10_13_09_55_48_820	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_13_09_58_02_619	admin	Logged in	116.98.248.223				
+G2024_10_13_09_58_05_163	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_13_10_01_39_891	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_13_10_04_35_608	admin	Logged out	timeout			
+G2024_10_13_10_04_35_782	admin	Logged out	by Click			
+G2024_10_13_10_04_47_387	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_13_10_10_31_402	admin	Logged out	by Click			
+G2024_10_13_10_13_05_744	admin	Logged in	116.98.248.223				
+G2024_10_13_10_13_08_514	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_13_10_13_43_141	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_13_10_14_04_386	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_13_10_14_33_841	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_13_10_14_43_608	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_13_10_14_58_716	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_13_10_14_59_869	Update	admin	Clicked on	Update	in PNewID	ID: 57-1-1	
+G2024_10_13_10_15_50_461	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_13_10_15_57_067	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_13_10_15_58_073	Update	admin	Clicked on	Update	in PNewID	ID: 58-1-1	
+G2024_10_13_10_17_32_463	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_13_10_17_33_464	Update	admin	Clicked on	Update	in PNewID	ID: 59-1-1	
+G2024_10_13_10_18_03_107	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_13_10_18_04_378	Update	admin	Clicked on	Update	in PNewID	ID: 60-1-1	
+G2024_10_13_10_18_26_244	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_13_10_18_27_358	Update	admin	Clicked on	Update	in PNewID	ID: 61-1-1	
+G2024_10_13_10_18_42_297	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_13_10_18_43_516	Update	admin	Clicked on	Update	in PNewID	ID: 62-1-1	
+G2024_10_13_10_19_57_435	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_13_10_19_58_664	Update	admin	Clicked on	Update	in PNewID	ID: 63-1-1	
+G2024_10_13_10_20_30_941	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_13_10_20_32_257	Update	admin	Clicked on	Update	in PNewID	ID: 64-1-1	
+G2024_10_13_10_20_45_346	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_13_10_20_46_349	Update	admin	Clicked on	Update	in PNewID	ID: 65-1-1	
+G2024_10_13_10_20_50_836	View/Edit	admin	Clicked on	View/Edit	in P0120	65-1-1	
+G2024_10_13_10_21_25_594	admin	Logged out	timeout			
+G2024_10_13_10_21_26_195	admin	Logged out	by Click			
+G2024_10_13_10_21_35_655	admin	Logged in	14.162.199.128				
+G2024_10_13_10_21_38_415	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_13_10_21_39_930	Update	admin	Clicked on	Update	in PNewID	ID: 66-1-1	
+G2024_10_13_10_21_43_521	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_13_10_21_45_337	Update	admin	Clicked on	Update	in PNewID	ID: 67-1-1	
+G2024_10_13_10_21_49_262	View/Edit	admin	Clicked on	View/Edit	in P0120	67-1-1	
+G2024_10_13_10_22_52_925	admin	Logged in	216.115.254.184				
+G2024_10_13_10_22_59_110	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_13_10_23_00_958	Update	admin	Clicked on	Update	in PNewID	ID: 68-1-1	
+G2024_10_13_10_23_08_524	View/Edit	admin	Clicked on	View/Edit	in P0120	68-1-1	
+G2024_10_13_10_24_06_452	Update	admin	Clicked on	Update	in PViewEdit	ID: 68-1-1	
+G2024_10_13_10_24_06_562	View/Edit	admin	Clicked on	View/Edit	in P0120	68-1-1	
+G2024_10_13_10_24_16_664	View/Edit	admin	Clicked on	View/Edit	in P0120	68-1-1	
+G2024_10_13_10_24_23_382	Services	admin	Clicked on	Services	in P0120	
+G2024_10_13_10_24_25_065	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_13_10_27_02_521	admin	Logged out	by Click			
+G2024_10_13_10_34_13_502	admin	Logged out	by Click			
+G2024_10_13_13_45_09_326	controller1	Logged in	216.115.254.184				
+G2024_10_13_13_45_13_550	View/Edit	controller1	Clicked on	View/Edit	in P0120	68-1-1	
+G2024_10_13_13_49_02_792	controller1	Logged out	timeout			
+G2024_10_13_13_56_09_661	controller1	Logged in	216.115.254.184				
+G2024_10_13_13_56_14_206	View/Edit	controller1	Clicked on	View/Edit	in P0120	68-1-1	
+G2024_10_13_13_56_26_854	Update	controller1	Clicked on	Update	in PViewEdit	ID: 68-1-1	
+G2024_10_13_13_56_26_970	View/Edit	controller1	Clicked on	View/Edit	in P0120	68-1-1	
+G2024_10_13_13_59_35_466	View/Edit	controller1	Clicked on	View/Edit	in P0120	69-1-1	
+G2024_10_13_13_59_49_744	controller1	Logged out	by Click			
+G2024_10_13_19_36_47_636	controller2	Logged in	216.115.254.184				
+G2024_10_13_19_36_53_756	View/Edit	controller2	Clicked on	View/Edit	in P0120	69-1-1	
+G2024_10_13_19_37_36_632	admin	Logged in	27.70.185.189				
+G2024_10_13_19_37_44_184	View/Edit	admin	Clicked on	View/Edit	in P0120	69-1-1	
+G2024_10_13_19_41_47_391	Update	controller2	Clicked on	Update	in PViewEdit	ID: 69-1-1	
+G2024_10_13_19_41_47_496	View/Edit	controller2	Clicked on	View/Edit	in P0120	69-1-1	
+G2024_10_13_19_42_28_382	Update	controller2	Clicked on	Update	in PViewEdit	ID: 69-1-1	
+G2024_10_13_19_42_28_493	View/Edit	controller2	Clicked on	View/Edit	in P0120	69-1-1	
+G2024_10_13_19_45_22_618	Update	controller2	Clicked on	Update	in PViewEdit	ID: 69-1-1	
+G2024_10_13_19_45_22_732	View/Edit	controller2	Clicked on	View/Edit	in P0120	69-1-1	
+G2024_10_13_19_48_21_318	Update	controller2	Clicked on	Update	in PViewEdit	ID: 69-1-1	
+G2024_10_13_19_48_21_421	View/Edit	controller2	Clicked on	View/Edit	in P0120	69-1-1	
+G2024_10_13_19_52_31_436	controller2	Logged out	by Click			
+G2024_10_13_19_52_40_955		Unsuccessful login	216.115.254.184	controller2			
+G2024_10_13_19_52_48_723		Unsuccessful login	216.115.254.184	controller2			
+G2024_10_13_19_52_56_110	controller2	Logged in	216.115.254.184				
+G2024_10_13_19_53_00_429	View/Edit	controller2	Clicked on	View/Edit	in P0120	69-1-1	
+G2024_10_13_20_01_14_641	controller2	Logged out	by Click			
+G2024_10_13_20_03_51_893	admin	Logged in	216.115.254.184				
+G2024_10_13_20_03_56_077	Services	admin	Clicked on	Services	in P0120	
+G2024_10_13_20_03_58_181	Config	admin	Clicked on	Config	in PServices	
+G2024_10_13_20_04_02_115	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_13_20_04_05_567	Config	admin	Clicked on	Config	in PServices	
+G2024_10_13_20_04_12_002	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_13_20_11_45_526	admin	Logged out	timeout			
+G2024_10_13_20_58_43_903	admin	Logged in	216.115.254.184				
+G2024_10_13_20_58_49_024	Users	admin	Clicked on	Users	in P0120	
+G2024_10_13_21_00_15_880	Users	admin	Clicked on	Users	in P0120	
+G2024_10_13_21_00_42_278	Users	admin	Clicked on	Users	in P0120	
+G2024_10_13_21_01_17_879	Users	admin	Clicked on	Users	in P0120	
+G2024_10_13_21_01_36_268	Users	admin	Clicked on	Users	in P0120	
+G2024_10_13_21_09_14_446	admin	Logged out	by Click			
+G2024_10_13_21_36_20_040	admin	Logged in	216.115.254.184				
+G2024_10_13_21_36_35_169	View/Edit	admin	Clicked on	View/Edit	in P0120	70-1-1	
+G2024_10_13_21_37_07_822	Users	admin	Clicked on	Users	in P0120	
+G2024_10_13_21_37_44_385	Users	admin	Clicked on	Users	in P0120	
+G2024_10_13_21_45_14_453	admin	Logged out	by Click			
+G2024_10_14_06_43_43_763	admin	Logged in	216.115.254.184				
+G2024_10_14_06_43_51_619	View/Edit	admin	Clicked on	View/Edit	in P0120	70-1-1	
+G2024_10_14_06_44_09_614	Update	admin	Clicked on	Update	in PViewEdit	ID: 70-1-1	
+G2024_10_14_06_44_09_723	View/Edit	admin	Clicked on	View/Edit	in P0120	70-1-1	
+G2024_10_14_06_44_22_062	Services	admin	Clicked on	Services	in P0120	
+G2024_10_14_06_44_24_042	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_14_06_44_55_032	admin	Logged out	by Click			
+G2024_10_14_08_27_31_394	admin	Logged in	14.162.199.128				
+G2024_10_14_08_27_41_468	Services	admin	Clicked on	Services	in P0120	
+G2024_10_14_08_27_42_727	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_14_08_34_36_504	admin	Logged out	by Click			
+G2024_10_14_08_51_22_702		Unsuccessful login	14.162.199.128	teacher01			
+G2024_10_14_08_51_27_714		Unsuccessful login	14.162.199.128	admin			
+G2024_10_14_08_51_32_755	admin	Logged in	14.162.199.128				
+G2024_10_14_08_51_36_248	Users	admin	Clicked on	Users	in P0120	
+G2024_10_14_08_52_07_114	Users	admin	Clicked on	Users	in P0120	
+G2024_10_14_08_52_34_659	Users	admin	Clicked on	Users	in P0120	
+G2024_10_14_08_55_44_719	Users	admin	Clicked on	Users	in P0120	
+G2024_10_14_08_56_45_186	admin	Logged out	by Click			
+G2024_10_14_08_56_52_353	teacher01	Logged in	14.162.199.128				
+G2024_10_14_08_56_56_509	Services	teacher01	Clicked on	Services	in P0120	
+G2024_10_14_08_56_57_871	Password	teacher01	Clicked on	Passwords	in PServices	
+G2024_10_14_08_57_01_453	Services	teacher01	Clicked on	Services	in P0120	
+G2024_10_14_08_58_36_450	teacher01	Logged out	by Click			
+G2024_10_14_18_52_15_933	admin	Logged in	216.115.254.184				
+G2024_10_14_18_52_24_180	View/Edit	admin	Clicked on	View/Edit	in P0120	70-1-1	
+G2024_10_14_18_52_33_464	Update	admin	Clicked on	Update	in PViewEdit	ID: 70-1-1	
+G2024_10_14_18_52_33_572	View/Edit	admin	Clicked on	View/Edit	in P0120	70-1-1	
+G2024_10_14_18_53_56_002	Services	admin	Clicked on	Services	in P0120	
+G2024_10_14_18_53_58_919	Config	admin	Clicked on	Config	in PServices	
+G2024_10_14_18_54_03_639	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_14_18_54_15_535	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_14_18_54_18_498	Config	admin	Clicked on	Config	in PServices	
+G2024_10_14_18_54_20_595	Services	admin	Clicked on	Services	in P0120	
+G2024_10_14_18_54_30_929	View/Edit	admin	Clicked on	View/Edit	in P0120	70-1-1	
+G2024_10_14_18_55_16_776	Users	admin	Clicked on	Users	in P0120	
+G2024_10_14_18_55_41_694	admin	Logged out	by Click			
+G2024_10_15_02_00_55_270	admin	Logged in	216.115.254.184				
+G2024_10_15_02_01_09_666	View/Edit	admin	Clicked on	View/Edit	in P0120	72-1-1	
+G2024_10_15_02_01_17_223	Update	admin	Clicked on	Update	in PViewEdit	ID: 72-1-1	
+G2024_10_15_02_01_17_322	View/Edit	admin	Clicked on	View/Edit	in P0120	72-1-1	
+G2024_10_15_02_01_20_049	admin	Logged out	by Click			
+G2024_10_15_02_09_59_314	admin	Logged in	113.190.244.34				
+G2024_10_15_02_10_02_291	Users	admin	Clicked on	Users	in P0120	
+G2024_10_15_02_10_08_708	Services	admin	Clicked on	Services	in P0120	
+G2024_10_15_02_10_13_312	View/Edit	admin	Clicked on	View/Edit	in P0120	72-1-1	
+G2024_10_15_02_10_24_092	Update	admin	Clicked on	Update	in PViewEdit	ID: 72-1-1	
+G2024_10_15_02_10_24_340	View/Edit	admin	Clicked on	View/Edit	in P0120	72-1-1	
+G2024_10_15_03_16_01_440	admin	Logged out	timeout			
+G2024_10_15_03_16_06_478	admin	Logged in	113.190.244.34				
+G2024_10_15_03_16_09_855	Users	admin	Clicked on	Users	in P0120	
+G2024_10_15_03_16_13_458	Users	admin	Clicked on	Users	in P0120	
+G2024_10_15_03_16_17_484	Users	admin	Clicked on	Users	in P0120	
+G2024_10_15_03_16_23_513	View/Edit	admin	Clicked on	View/Edit	in P0120	72-1-1	
+G2024_10_15_03_16_43_679	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_15_03_16_45_105	Update	admin	Clicked on	Update	in PNewID	ID: 74-1-1	
+G2024_10_15_03_16_51_591	Search	admin	Clicked on	Search	in P0120	
+G2024_10_15_03_16_57_525	Services	admin	Clicked on	Services	in P0120	
+G2024_10_15_03_17_00_175	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_15_03_17_14_249	Services	admin	Clicked on	Services	in P0120	
+G2024_10_15_03_17_16_404	admin	Logged out	by Click			
+G2024_10_15_07_17_27_212	controller2	Logged in	216.115.254.184				
+G2024_10_15_07_17_38_848	View/Edit	controller2	Clicked on	View/Edit	in P0120	74-1-1	
+G2024_10_15_07_18_00_989	Update	controller2	Clicked on	Update	in PViewEdit	ID: 74-1-1	
+G2024_10_15_07_18_01_096	View/Edit	controller2	Clicked on	View/Edit	in P0120	74-1-1	
+G2024_10_15_07_19_44_707	Users	controller2	Clicked on	Users	in P0120	
+G2024_10_15_07_19_51_356	controller2	Logged out	by Click			
+G2024_10_15_09_48_58_379	admin	Logged in	216.115.254.184				
+G2024_10_15_09_49_02_311	Services	admin	Clicked on	Services	in P0120	
+G2024_10_15_09_49_04_059	Config	admin	Clicked on	Config	in PServices	
+G2024_10_15_09_49_05_994	Services	admin	Clicked on	Services	in P0120	
+G2024_10_15_09_49_07_765	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_15_09_50_57_915	admin	Logged out	by Click			
+G2024_10_15_13_15_22_698	controller2	Logged in	216.115.254.184				
+G2024_10_15_13_15_27_845	Users	controller2	Clicked on	Users	in P0120	
+G2024_10_15_13_16_32_262	Users	controller2	Clicked on	Users	in P0120	
+G2024_10_15_13_25_42_580	controller2	Logged out	timeout			
+G2024_10_15_13_25_50_201	controller2	Logged in	216.115.254.184				
+G2024_10_15_13_25_52_394	Users	controller2	Clicked on	Users	in P0120	
+G2024_10_15_13_38_15_067	controller2	Logged out	by Click			
+G2024_10_15_13_48_55_409	controller2	Logged in	216.115.254.184				
+G2024_10_15_13_48_58_196	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_15_13_49_00_513	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_15_13_49_05_364	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_15_13_49_07_447	controller2	Logged out	by Click			
+G2024_10_15_13_49_14_187	admin	Logged in	216.115.254.184				
+G2024_10_15_13_49_18_774	Services	admin	Clicked on	Services	in P0120	
+G2024_10_15_13_49_20_113	Config	admin	Clicked on	Config	in PServices	
+G2024_10_15_13_49_28_406	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_15_13_49_31_158	Config	admin	Clicked on	Config	in PServices	
+G2024_10_15_13_49_34_775	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::COMMON TEMPORARY MESSAGE	
+G2024_10_15_13_57_15_090	admin	Logged out	by Click			
+G2024_10_15_18_24_45_087		Unsuccessful login	125.235.60.64	admin			
+G2024_10_15_18_24_55_619	admin	Logged in	125.235.60.64				
+G2024_10_15_18_25_03_808	View/Edit	admin	Clicked on	View/Edit	in P0120	76-1-1	
+G2024_10_15_18_32_36_845	admin	Logged out	by Click			
+G2024_10_16_00_29_07_898	admin	Logged in	116.98.248.223				
+G2024_10_16_00_29_12_787	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_00_34_53_720	admin	Logged in	116.98.248.223				
+G2024_10_16_00_34_58_601	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_16_00_35_03_674	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_00_35_45_275	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_00_35_50_889	Search	admin	Clicked on	Search	in P0120	
+G2024_10_16_00_35_54_939	Services	admin	Clicked on	Services	in P0120	
+G2024_10_16_00_35_56_807	Password	admin	Clicked on	Passwords	in PServices	
+G2024_10_16_00_36_02_076	Services	admin	Clicked on	Services	in P0120	
+G2024_10_16_00_36_03_835	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_16_00_36_05_530	Services	admin	Clicked on	Services	in P0120	
+G2024_10_16_00_36_07_957	Config	admin	Clicked on	Config	in PServices	
+G2024_10_16_00_36_10_497	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_16_00_36_12_321	Config	admin	Clicked on	Config	in PServices	
+G2024_10_16_00_36_14_614	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_16_00_36_40_785	Config	admin	Clicked on	Config	in PServices	
+G2024_10_16_00_36_41_870	Services	admin	Clicked on	Services	in P0120	
+G2024_10_16_00_36_46_145	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_00_37_06_096	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_00_37_26_995	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_00_44_50_992	Services	admin	Clicked on	Services	in P0120	
+G2024_10_16_00_44_52_704	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_16_00_47_08_345	Services	admin	Clicked on	Services	in P0120	
+G2024_10_16_00_47_10_243	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_16_00_47_12_902	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_16_00_47_16_381	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_16_00_51_42_570	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_16_00_51_48_820	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_16_00_51_49_952	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_16_00_53_40_986	Services	admin	Clicked on	Services	in P0120	
+G2024_10_16_00_53_44_152	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_16_01_00_04_665	admin	Logged out	by Click			
+G2024_10_16_01_17_58_775	admin	Logged in	116.98.248.223				
+G2024_10_16_01_18_01_346	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_16_01_18_02_563	Update	admin	Clicked on	Update	in PNewID	ID: 77-1-1	
+G2024_10_16_01_18_12_008	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_16_01_19_16_879	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_16_01_21_05_633	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_16_01_21_19_999	Update	admin	Clicked on	Update	in PNewID	ID: 78-1-1	
+G2024_10_16_01_24_35_869	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_16_01_24_38_153	Update	admin	Clicked on	Update	in PNewID	ID: 79-1-1	
+G2024_10_16_01_25_09_579	Services	admin	Clicked on	Services	in P0120	
+G2024_10_16_01_25_11_258	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_16_01_25_45_768	Services	admin	Clicked on	Services	in P0120	
+G2024_10_16_01_25_49_264	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_16_01_25_52_910	Update	admin	Clicked on	Update	in PNewID	ID: 80-1-1	
+G2024_10_16_01_31_17_746	admin	Logged out	by Click			
+G2024_10_16_01_33_29_815	admin	Logged in	116.98.248.223				
+G2024_10_16_01_33_39_239	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_16_01_33_48_774	Update	admin	Clicked on	Update	in PNewID	ID: 81-1-1	
+G2024_10_16_01_35_19_348	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_16_01_40_57_172	admin	Logged out	timeout			
+G2024_10_16_01_40_57_454	admin	Logged out	by Click			
+G2024_10_16_03_57_03_392	admin	Logged in	116.98.248.223				
+G2024_10_16_03_57_06_406	Services	admin	Clicked on	Services	in P0120	
+G2024_10_16_03_57_08_664	Config	admin	Clicked on	Config	in PServices	
+G2024_10_16_03_57_10_881	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::P0120	
+G2024_10_16_03_57_13_484	Config	admin	Clicked on	Config	in PServices	
+G2024_10_16_03_57_15_223	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_16_03_57_17_862	Config	admin	Clicked on	Config	in PServices	
+G2024_10_16_03_57_19_903	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::Logs	
+G2024_10_16_03_57_21_736	Config	admin	Clicked on	Config	in PServices	
+G2024_10_16_03_57_23_393	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::COMMON TEMPORARY MESSAGE	
+G2024_10_16_03_57_25_717	Config	admin	Clicked on	Config	in PServices	
+G2024_10_16_03_57_27_717	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::Buttons	
+G2024_10_16_03_57_29_470	Config	admin	Clicked on	Config	in PServices	
+G2024_10_16_03_57_31_146	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_16_03_57_39_576	Config	admin	Clicked on	Config	in PServices	
+G2024_10_16_03_57_40_728	Services	admin	Clicked on	Services	in P0120	
+G2024_10_16_03_57_46_640	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_03_58_00_281	View/Edit	admin	Clicked on	View/Edit	in P0120	81-1-1	
+G2024_10_16_04_04_14_976	admin	Logged out	timeout			
+G2024_10_16_04_04_15_148	admin	Logged out	by Click			
+G2024_10_16_04_43_45_263	admin	Logged in	116.98.248.223				
+G2024_10_16_04_43_49_144	View/Edit	admin	Clicked on	View/Edit	in P0120	81-1-1	
+G2024_10_16_04_43_55_737	Services	admin	Clicked on	Services	in P0120	
+G2024_10_16_04_43_56_960	Config	admin	Clicked on	Config	in PServices	
+G2024_10_16_04_43_58_751	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_16_04_44_39_777	Config	admin	Clicked on	Config	in PServices	
+G2024_10_16_04_44_40_985	Services	admin	Clicked on	Services	in P0120	
+G2024_10_16_04_44_45_146	View/Edit	admin	Clicked on	View/Edit	in P0120	81-1-1	
+G2024_10_16_04_44_54_409	View/Edit	admin	Clicked on	View/Edit	in P0120	81-1-1	
+G2024_10_16_04_50_56_092	View/Edit	admin	Clicked on	View/Edit	in P0120	50-1-1	
+G2024_10_16_04_51_37_333	admin	Logged in	116.98.248.223				
+G2024_10_16_04_51_42_478	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_04_51_46_964	View/Edit	admin	Clicked on	View/Edit	in P0120	38-1-1	
+G2024_10_16_04_54_55_324	View/Edit	admin	Clicked on	View/Edit	in P0120	38-1-1	
+G2024_10_16_04_55_10_716	View/Edit	admin	Clicked on	View/Edit	in P0120	38-1-1	
+G2024_10_16_04_56_19_771	View/Edit	admin	Clicked on	View/Edit	in P0120	38-1-1	
+G2024_10_16_05_03_05_438	admin	Logged out	by Click			
+G2024_10_16_05_05_46_400	admin	Logged in	116.98.248.223				
+G2024_10_16_05_05_56_864	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_05_09_09_694	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_05_09_41_126	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_05_10_11_763	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_05_11_26_929	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_05_11_40_157	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_05_11_53_770	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_05_12_18_188	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_05_12_56_302	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_05_20_24_387	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_05_20_44_199	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_05_22_41_428	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_05_22_45_876	View/Edit	admin	Clicked on	View/Edit	in P0120	78-1-1	
+G2024_10_16_05_31_05_486	admin	Logged out	by Click			
+G2024_10_16_06_38_18_354	admin	Logged in	116.98.248.223				
+G2024_10_16_06_38_23_191	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_06_38_26_516	Services	admin	Clicked on	Services	in P0120	
+G2024_10_16_06_46_05_715	admin	Logged out	by Click			
+G2024_10_16_09_25_39_975	admin	Logged in	116.98.248.223				
+G2024_10_16_09_25_43_516	View/Edit	admin	Clicked on	View/Edit	in P0120	79-1-1	
+G2024_10_16_09_27_32_132	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_09_28_32_178	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_09_28_36_428	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_09_38_06_428	admin	Logged out	by Click			
+G2024_10_16_09_40_58_294	admin	Logged in	116.98.248.223				
+G2024_10_16_09_41_01_996	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_09_51_06_262	admin	Logged out	by Click			
+G2024_10_16_09_51_45_818	admin	Logged in	116.98.248.223				
+G2024_10_16_09_51_49_030	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_09_53_17_987	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_09_55_06_545	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_09_57_46_526	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_09_59_05_578	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_10_00_52_390	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_10_00_59_060	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_10_01_00_214	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_10_05_12_376	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_10_06_24_952	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_10_07_14_792	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_10_09_52_934	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_10_10_05_550	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_10_15_54_238	admin	Logged out	timeout			
+G2024_10_16_10_15_54_509	admin	Logged out	by Click			
+G2024_10_16_10_47_12_055	admin	Logged in	116.98.248.223				
+G2024_10_16_10_47_15_048	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_10_49_45_158	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_10_50_17_377	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_10_50_25_999	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_10_50_46_594	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_10_57_06_471	admin	Logged out	by Click			
+G2024_10_16_15_18_45_846	controller1	Logged in	216.115.254.184				
+G2024_10_16_15_18_50_218	Users	controller1	Clicked on	Users	in P0120	
+G2024_10_16_15_18_58_222	Search	controller1	Clicked on	Search	in P0120	
+G2024_10_16_15_19_11_389	Services	controller1	Clicked on	Services	in P0120	
+G2024_10_16_15_19_15_948	Password	controller1	Clicked on	Passwords	in PServices	
+G2024_10_16_15_19_26_562	Services	controller1	Clicked on	Services	in P0120	
+G2024_10_16_15_19_28_696	Password	controller1	Clicked on	Passwords	in PServices	
+G2024_10_16_15_19_32_060	Services	controller1	Clicked on	Services	in P0120	
+G2024_10_16_15_19_34_668	Logs	controller1	Clicked on	Logs	in PServices	
+G2024_10_16_17_53_19_564	controller2	Logged in	216.115.254.184				
+G2024_10_16_17_53_22_797	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_16_17_53_25_197	Logs	controller2	Clicked on	Logs	in PServices	
+G2024_10_16_17_54_35_177	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_16_17_54_41_248	Users	controller2	Clicked on	Users	in P0120	
+G2024_10_16_18_03_16_861	controller2	Logged out	by Click			
+G2024_10_16_20_59_23_354	admin	Logged in	116.98.248.223				
+G2024_10_16_20_59_26_557	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_21_05_35_103	admin	Logged out	timeout			
+G2024_10_16_21_05_35_188	admin	Logged out	by Click			
+G2024_10_16_21_05_35_380	admin	Logged out	by Click			
+G2024_10_16_21_19_45_916	admin	Logged in	116.98.248.223				
+G2024_10_16_21_19_48_535	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_21_23_27_392	admin	Logged in	116.98.248.223				
+G2024_10_16_21_23_30_542	Users	admin	Clicked on	Users	in P0120	
+G2024_10_16_21_24_06_057	Update	admin	Clicked on	Copy	teacher01  aaa@a.com}
+G2024_10_16_21_24_28_523	Update	admin	Clicked on	Copy	teacher01  aaa@a.com}
+G2024_10_16_21_24_35_030	Services	admin	Clicked on	Services	in P0120	
+G2024_10_16_21_24_36_562	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_16_21_32_05_899	admin	Logged out	by Click			
+G2024_10_17_02_01_01_518		Unsuccessful login	116.98.248.223	tthuyen3@rsupport.com			
+G2024_10_17_09_18_58_864	admin	Logged in	116.98.248.40				
+G2024_10_17_09_19_03_021	Services	admin	Clicked on	Services	in P0120	
+G2024_10_17_09_19_05_648	Config	admin	Clicked on	Config	in PServices	
+G2024_10_17_09_19_07_972	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_17_09_19_16_279	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_17_09_19_41_136	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_17_09_24_30_338	Config	admin	Clicked on	Config	in PServices	
+G2024_10_17_09_24_35_757	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::P0120	
+G2024_10_17_09_24_39_785	Config	admin	Clicked on	Config	in PServices	
+G2024_10_17_09_24_41_866	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::COMMON TEMPORARY MESSAGE	
+G2024_10_17_09_31_08_121	admin	Logged out	by Click			
+G2024_10_17_09_44_30_641	admin	Logged in	14.162.199.128				
+G2024_10_17_09_44_35_109	Services	admin	Clicked on	Services	in P0120	
+G2024_10_17_09_44_36_902	Config	admin	Clicked on	Config	in PServices	
+G2024_10_17_09_44_39_170	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_17_09_44_56_511	Config	admin	Clicked on	Config	in PServices	
+G2024_10_17_09_44_57_563	Services	admin	Clicked on	Services	in P0120	
+G2024_10_17_09_45_02_351	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_17_09_45_05_067	Update	admin	Clicked on	Update	in PNewID	ID: 82-1-1	
+G2024_10_17_09_45_09_852	View/Edit	admin	Clicked on	View/Edit	in P0120	82-1-1	
+G2024_10_17_09_45_37_146	Services	admin	Clicked on	Services	in P0120	
+G2024_10_17_09_45_38_633	Config	admin	Clicked on	Config	in PServices	
+G2024_10_17_09_45_41_314	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::COMMON TEMPORARY MESSAGE	
+G2024_10_17_09_45_46_927	Config	admin	Clicked on	Config	in PServices	
+G2024_10_17_09_45_48_390	Services	admin	Clicked on	Services	in P0120	
+G2024_10_17_09_45_56_314	View/Edit	admin	Clicked on	View/Edit	in P0120	83-1-1	
+G2024_10_17_09_49_47_300	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_17_09_49_49_133	Config	admin	Clicked on	Config	in PServices	
+G2024_10_17_09_49_50_769	Services	admin	Clicked on	Services	in P0120	
+G2024_10_17_09_50_53_419	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_17_09_51_16_850	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_09_51_24_768	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_09_51_35_155	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_09_51_43_607	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_09_51_50_734	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_09_52_59_867	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_09_53_06_002	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_09_53_21_381	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_09_55_39_498	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_09_55_45_560	View/Edit	admin	Clicked on	View/Edit	in P0120	85-1-1	
+G2024_10_17_09_55_54_591	Update	admin	Clicked on	Update	in PViewEdit	ID: 85-1-1	
+G2024_10_17_09_55_54_892	View/Edit	admin	Clicked on	View/Edit	in P0120	85-1-1	
+G2024_10_17_09_56_53_465	admin	Logged in	116.98.248.40				
+G2024_10_17_09_57_00_150	View/Edit	admin	Clicked on	View/Edit	in P0120	84-1-1	
+G2024_10_17_10_02_04_955	admin	Logged out	by Click			
+G2024_10_17_10_22_07_510	admin	Logged in	116.98.248.40				
+G2024_10_17_10_22_11_038	View/Edit	admin	Clicked on	View/Edit	in P0120	85-1-1	
+G2024_10_17_10_23_31_018	Update	admin	Clicked on	Update	in PViewEdit	ID: 85-1-1	
+G2024_10_17_10_23_31_312	View/Edit	admin	Clicked on	View/Edit	in P0120	85-1-1	
+G2024_10_17_10_28_25_376	Update	admin	Clicked on	Update	in PViewEdit	ID: 85-1-1	
+G2024_10_17_10_28_25_681	View/Edit	admin	Clicked on	View/Edit	in P0120	85-1-1	
+G2024_10_17_10_29_31_341	Update	admin	Clicked on	Update	in PViewEdit	ID: 85-1-1	
+G2024_10_17_10_29_31_650	View/Edit	admin	Clicked on	View/Edit	in P0120	85-1-1	
+G2024_10_17_10_31_06_738	Update	admin	Clicked on	Update	in PViewEdit	ID: 85-1-1	
+G2024_10_17_10_31_07_026	View/Edit	admin	Clicked on	View/Edit	in P0120	85-1-1	
+G2024_10_17_10_32_53_475	View/Edit	admin	Clicked on	View/Edit	in P0120	85-1-1	
+G2024_10_17_10_33_17_786	View/Edit	admin	Clicked on	View/Edit	in P0120	85-1-1	
+G2024_10_17_10_33_20_586	Update	admin	Clicked on	Update	in PViewEdit	ID: 85-1-1	
+G2024_10_17_10_33_20_849	View/Edit	admin	Clicked on	View/Edit	in P0120	85-1-1	
+G2024_10_17_10_33_55_739	View/Edit	admin	Clicked on	View/Edit	in P0120	80-1-1	
+G2024_10_17_10_34_02_893	Update	admin	Clicked on	Update	in PViewEdit	ID: 80-1-1	
+G2024_10_17_10_34_03_153	View/Edit	admin	Clicked on	View/Edit	in P0120	80-1-1	
+G2024_10_17_10_38_21_361	Services	admin	Clicked on	Services	in P0120	
+G2024_10_17_10_38_22_893	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_17_10_39_32_963	Services	admin	Clicked on	Services	in P0120	
+G2024_10_17_10_39_36_837	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_10_39_41_716	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_10_41_30_493	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_10_41_35_523	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_10_41_40_524	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_10_42_04_892	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_10_42_08_746	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_10_42_12_433	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_10_42_15_007	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_10_42_18_211	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_10_42_21_261	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_10_42_31_216	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_10_42_34_789	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_10_42_38_582	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_10_42_42_241	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_10_42_45_635	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_10_42_48_060	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_10_47_26_708	Users	admin	Clicked on	Users	in P0120	
+G2024_10_17_10_47_31_013	View/Edit	admin	Clicked on	View/Edit	in P0120	84-1-1	
+G2024_10_17_10_55_08_516	admin	Logged out	by Click			
+G2024_10_17_11_01_01_915	admin	Logged in	116.98.248.40				
+G2024_10_17_11_01_05_727	Services	admin	Clicked on	Services	in P0120	
+G2024_10_17_11_01_07_028	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_17_11_01_48_308	Services	admin	Clicked on	Services	in P0120	
+G2024_10_17_11_01_49_929	Config	admin	Clicked on	Config	in PServices	
+G2024_10_17_11_01_52_400	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_17_11_02_01_221	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_17_11_02_02_641	Config	admin	Clicked on	Config	in PServices	
+G2024_10_17_11_02_05_152	Services	admin	Clicked on	Services	in P0120	
+G2024_10_17_11_02_06_391	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_17_11_02_30_958	Services	admin	Clicked on	Services	in P0120	
+G2024_10_17_11_02_33_363	Config	admin	Clicked on	Config	in PServices	
+G2024_10_17_11_02_35_584	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::COMMON TEMPORARY MESSAGE	
+G2024_10_17_11_13_23_915	Services	admin	Clicked on	Services	in P0120	
+G2024_10_17_11_13_25_556	Config	admin	Clicked on	Config	in PServices	
+G2024_10_17_11_13_29_946	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_17_11_13_39_327	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_17_11_13_40_742	Config	admin	Clicked on	Config	in PServices	
+G2024_10_17_11_13_42_815	Services	admin	Clicked on	Services	in P0120	
+G2024_10_17_11_13_44_515	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_17_11_16_29_626	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_17_11_16_36_839	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_17_11_16_38_469	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_17_12_09_52_719	controller2	Logged in	216.115.254.184				
+G2024_10_17_12_10_03_879	View/Edit	controller2	Clicked on	View/Edit	in P0120	84-1-1	
+G2024_10_17_12_10_16_349	Update	controller2	Clicked on	Update	in PViewEdit	ID: 84-1-1	
+G2024_10_17_12_10_16_447	View/Edit	controller2	Clicked on	View/Edit	in P0120	84-1-1	
+G2024_10_17_12_11_09_643	Update	controller2	Clicked on	Update	in PViewEdit	ID: 84-1-1	
+G2024_10_17_12_11_09_735	View/Edit	controller2	Clicked on	View/Edit	in P0120	84-1-1	
+G2024_10_17_12_12_06_914	View/Edit	controller2	Clicked on	View/Edit	in P0120	84-1-1	
+G2024_10_17_12_12_15_393	View/Edit	controller2	Clicked on	View/Edit	in P0120	85-1-1	
+G2024_10_17_12_12_29_178	Users	controller2	Clicked on	Users	in P0120	
+G2024_10_17_12_12_44_260	Update	controller2	Clicked on	Copy	teacherassociate032  example@example.com
+G2024_10_17_12_13_19_287	Users	controller2	Clicked on	Users	in P0120	
+G2024_10_17_12_13_24_760	Users	controller2	Clicked on	Users	in P0120	
+G2024_10_17_12_14_11_085	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_17_12_14_13_487	Logs	controller2	Clicked on	Logs	in PServices	
+G2024_10_17_12_20_17_188	controller2	Logged out	by Click			
+G2024_10_17_12_58_03_328	controller2	Logged in	216.115.254.184				
+G2024_10_17_12_58_06_011	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_17_12_58_07_934	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_17_12_58_11_390	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_17_12_58_15_886	controller2	Logged out	by Click			
+G2024_10_17_12_58_23_979	admin	Logged in	216.115.254.184				
+G2024_10_17_12_58_27_613	Services	admin	Clicked on	Services	in P0120	
+G2024_10_17_12_58_29_646	Config	admin	Clicked on	Config	in PServices	
+G2024_10_17_12_58_34_437	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_17_12_59_06_733	Config	admin	Clicked on	Config	in PServices	
+G2024_10_17_12_59_10_263	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_17_13_04_08_838	admin	Logged out	by Click			
+G2024_10_17_19_40_31_194	admin	Logged in	113.190.244.34				
+G2024_10_17_19_40_37_661	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_17_19_40_40_031	Update	admin	Clicked on	Update	in PNewID	ID: 87-1-1	
+G2024_10_17_19_40_47_640	View/Edit	admin	Clicked on	View/Edit	in P0120	87-1-1	
+G2024_10_17_19_40_50_473	Update	admin	Clicked on	Update	in PViewEdit	ID: 87-1-1	
+G2024_10_17_19_40_50_739	View/Edit	admin	Clicked on	View/Edit	in P0120	87-1-1	
+G2024_10_18_00_11_47_160	admin	Logged out	timeout			
+G2024_10_18_00_11_47_371	admin	Logged out	by Click			
+G2024_10_18_00_11_47_416	admin	Logged out	by Click			
+G2024_10_18_00_11_59_349	admin	Logged in	113.190.244.34				
+G2024_10_18_00_12_04_075	Users	admin	Clicked on	Users	in P0120	
+G2024_10_18_00_18_33_511	admin	Logged out	by Click			
+G2024_10_18_04_31_49_232	admin	Logged in	116.98.248.40				
+G2024_10_18_04_31_52_879	View/Edit	admin	Clicked on	View/Edit	in P0120	88-1-1	
+G2024_10_18_04_37_03_844	View/Edit	admin	Clicked on	View/Edit	in P0120	88-1-1	
+G2024_10_18_04_37_05_967	Update	admin	Clicked on	Update	in PViewEdit	ID: 88-1-1	
+G2024_10_18_04_37_06_263	View/Edit	admin	Clicked on	View/Edit	in P0120	88-1-1	
+G2024_10_18_04_37_29_030	admin	Logged in	116.98.248.40				
+G2024_10_18_04_37_32_726	View/Edit	admin	Clicked on	View/Edit	in P0120	88-1-1	
+G2024_10_18_04_37_38_140	Update	admin	Clicked on	Update	in PViewEdit	ID: 88-1-1	
+G2024_10_18_04_37_38_434	View/Edit	admin	Clicked on	View/Edit	in P0120	88-1-1	
+G2024_10_18_04_37_45_693	Update	admin	Clicked on	Update	in PViewEdit	ID: 88-1-1	
+G2024_10_18_04_37_45_990	View/Edit	admin	Clicked on	View/Edit	in P0120	88-1-1	
+G2024_10_18_04_37_52_950	Update	admin	Clicked on	Update	in PViewEdit	ID: 88-1-1	
+G2024_10_18_04_37_53_244	View/Edit	admin	Clicked on	View/Edit	in P0120	88-1-1	
+G2024_10_18_04_38_23_551	View/Edit	admin	Clicked on	View/Edit	in P0120	88-1-1	
+G2024_10_18_04_38_27_511	Update	admin	Clicked on	Update	in PViewEdit	ID: 88-1-1	
+G2024_10_18_04_38_27_808	View/Edit	admin	Clicked on	View/Edit	in P0120	88-1-1	
+G2024_10_18_04_38_33_368	Update	admin	Clicked on	Update	in PViewEdit	ID: 88-1-1	
+G2024_10_18_04_38_33_659	View/Edit	admin	Clicked on	View/Edit	in P0120	88-1-1	
+G2024_10_18_04_38_49_995	View/Edit	admin	Clicked on	View/Edit	in P0120	88-1-1	
+G2024_10_18_04_38_54_125	Update	admin	Clicked on	Update	in PViewEdit	ID: 88-1-1	
+G2024_10_18_04_38_54_466	View/Edit	admin	Clicked on	View/Edit	in P0120	88-1-1	
+G2024_10_18_04_39_00_539	Update	admin	Clicked on	Update	in PViewEdit	ID: 88-1-1	
+G2024_10_18_04_39_00_834	View/Edit	admin	Clicked on	View/Edit	in P0120	88-1-1	
+G2024_10_18_04_42_35_313	View/Edit	admin	Clicked on	View/Edit	in P0120	88-1-1	
+G2024_10_18_04_49_11_611	admin	Logged out	by Click			
+G2024_10_18_04_49_43_404	admin	Logged in	116.98.248.40				
+G2024_10_18_04_49_46_406	View/Edit	admin	Clicked on	View/Edit	in P0120	90-1-1	
+G2024_10_18_04_52_48_992	View/Edit	admin	Clicked on	View/Edit	in P0120	90-1-1	
+G2024_10_18_04_54_06_478	View/Edit	admin	Clicked on	View/Edit	in P0120	90-1-1	
+G2024_10_18_04_54_49_586	Users	admin	Clicked on	Users	in P0120	
+G2024_10_18_04_56_40_031	Users	admin	Clicked on	Users	in P0120	
+G2024_10_18_04_56_43_216	Services	admin	Clicked on	Services	in P0120	
+G2024_10_18_04_56_44_531	admin	Logged in	216.115.254.184				
+G2024_10_18_04_56_44_558	Config	admin	Clicked on	Config	in PServices	
+G2024_10_18_04_56_47_178	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_18_04_56_48_478	Services	admin	Clicked on	Services	in P0120	
+G2024_10_18_04_56_51_017	Password	admin	Clicked on	Passwords	in PServices	
+G2024_10_18_04_58_00_045	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_18_04_58_19_036	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_10_18_04_59_38_253	Users	admin	Clicked on	Users	in P0120	
+G2024_10_18_04_59_49_567	Services	admin	Clicked on	Services	in P0120	
+G2024_10_18_04_59_51_183	Password	admin	Clicked on	Passwords	in PServices	
+G2024_10_18_05_00_10_406	Services	admin	Clicked on	Services	in P0120	
+G2024_10_18_05_00_19_269	View/Edit	admin	Clicked on	View/Edit	in P0120	90-1-1	
+G2024_10_18_05_00_29_886	admin	Logged out	by Click			
+G2024_10_18_05_15_11_713	admin	Logged out	by Click			
+G2024_10_18_05_15_11_729	admin	Logged out	timeout			
+G2024_10_18_05_18_58_494		Unsuccessful login	216.115.254.184	admin7			
+G2024_10_18_05_19_18_300	admin	Logged in	216.115.254.184				
+G2024_10_18_05_19_22_204	Services	admin	Clicked on	Services	in P0120	
+G2024_10_18_05_19_25_670	Password	admin	Clicked on	Passwords	in PServices	
+G2024_10_18_05_20_24_048	admin	Logged out	by Click			
+G2024_10_18_08_05_17_231	admin3	Logged in	216.115.254.184				
+G2024_10_18_08_05_21_627	admin3	Logged out	by Click			
+G2024_10_18_08_05_32_623	admin4	Logged in	216.115.254.184				
+G2024_10_18_08_05_36_719	admin4	Logged out	by Click			
+G2024_10_19_10_19_47_313		Unsuccessful login	216.115.254.184	controller2			
+G2024_10_19_10_19_58_330	controller2	Logged in	216.115.254.184				
+G2024_10_19_10_20_01_349	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_19_10_20_04_463	Logs	controller2	Clicked on	Logs	in PServices	
+G2024_10_19_10_26_18_063	controller2	Logged out	by Click			
+G2024_10_19_10_30_57_982	admin5	Logged in	216.115.254.184				
+G2024_10_19_10_31_03_576	Services	admin5	Clicked on	Services	in P0120	
+G2024_10_19_10_31_05_046	Logs	admin5	Clicked on	Logs	in PServices	
+G2024_10_19_10_33_08_864	Services	admin5	Clicked on	Services	in P0120	
+G2024_10_19_10_33_14_079	Config	admin5	Clicked on	Config	in PServices	
+G2024_10_19_10_33_19_100	View/Edit	admin5	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_19_10_33_27_666	Config	admin5	Clicked on	Config	in PServices	
+G2024_10_19_10_33_29_839	Services	admin5	Clicked on	Services	in P0120	
+G2024_10_19_10_40_18_066	admin5	Logged out	by Click			
+G2024_10_20_03_02_24_407	admin	Logged in	14.162.199.128				
+G2024_10_20_03_07_27_529	Services	admin	Clicked on	Services	in P0120	
+G2024_10_20_03_07_28_877	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_20_03_08_40_345	Services	admin	Clicked on	Services	in P0120	
+G2024_10_20_03_08_43_571	New ID	admin	Clicked on	New ID	in P0120	
+G2024_10_20_03_08_45_951	Update	admin	Clicked on	Update	in PNewID	ID: 93-1-1	
+G2024_10_20_03_08_49_756	Services	admin	Clicked on	Services	in P0120	
+G2024_10_20_03_08_51_582	Logs	admin	Clicked on	Logs	in PServices	
+G2024_10_20_03_15_06_841	Services	admin	Clicked on	Services	in P0120	
+G2024_10_20_03_17_52_196	admin	Logged out	by Click			
+G2024_10_20_03_17_52_243	admin	Logged out	timeout			
+G2024_10_20_03_17_59_803		Unsuccessful login	14.162.199.128	teacher01			
+G2024_10_20_03_18_13_944	admin	Logged in	14.162.199.128				
+G2024_10_20_03_18_16_756	Users	admin	Clicked on	Users	in P0120	
+G2024_10_20_03_18_24_717	admin	Logged out	by Click			
+G2024_10_20_03_18_40_512	teacherassociate011	Logged in	14.162.199.128				
+G2024_10_20_03_18_45_386	Services	teacherassociate011	Clicked on	Services	in P0120	
+G2024_10_20_03_18_46_858	Password	teacherassociate011	Clicked on	Passwords	in PServices	
+G2024_10_20_03_18_53_228	Services	teacherassociate011	Clicked on	Services	in P0120	
+G2024_10_20_03_19_51_096	Config	teacherassociate011	Clicked on	Config	in PServices	
+G2024_10_20_03_19_52_877	Services	teacherassociate011	Clicked on	Services	in P0120	
+G2024_10_20_03_19_55_752	teacherassociate011	Logged out	by Click			
+G2024_10_20_03_19_55_941	teacherassociate011	Logged out	timeout			
+G2024_10_20_03_20_03_743	admin	Logged in	14.162.199.128				
+G2024_10_20_03_20_06_525	Services	admin	Clicked on	Services	in P0120	
+G2024_10_20_03_21_18_710	Config	admin	Clicked on	Config	in PServices	
+G2024_10_20_03_21_23_475	View/Edit	admin	Clicked on	View/Edit	in PConfig	Website Configuration::General Settings	
+G2024_10_20_03_21_55_709	Config	admin	Clicked on	Config	in PServices	
+G2024_10_20_03_21_57_153	Services	admin	Clicked on	Services	in P0120	
+G2024_10_20_03_23_48_115	View/Edit	admin	Clicked on	View/Edit	in P0120	93-1-1	
+G2024_10_20_03_26_32_257	Users	admin	Clicked on	Users	in P0120	
+G2024_10_20_03_26_37_779	Users	admin	Clicked on	Users	in P0120	
+G2024_10_20_03_26_49_928	Users	admin	Clicked on	Users	in P0120	
+G2024_10_20_03_26_55_129	Users	admin	Clicked on	Users	in P0120	
+G2024_10_20_03_30_27_124	Users	admin	Clicked on	Users	in P0120	
+G2024_10_20_03_32_31_553	Users	admin	Clicked on	Users	in P0120	
+G2024_10_20_03_32_34_065	Users	admin	Clicked on	Users	in P0120	
+G2024_10_20_03_49_38_269	admin	Logged out	by Click			
+G2024_10_20_03_52_42_074	controller2	Logged in	216.115.254.184				
+G2024_10_20_03_52_55_446	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_20_03_53_01_375	Config	controller2	Clicked on	Config	in PServices	
+G2024_10_20_03_53_06_760	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_20_03_53_09_787	Logs	controller2	Clicked on	Logs	in PServices	
+G2024_10_20_03_53_48_210	Services	controller2	Clicked on	Services	in P0120	
+G2024_10_20_03_53_52_429	controller2	Logged out	by Click			
+G2024_10_20_04_05_45_633	admin2	Logged in	216.115.254.184				
+G2024_10_20_04_05_52_275	Users	admin2	Clicked on	Users	in P0120	
+G2024_10_20_04_06_04_004	Update	admin2	Clicked on	Copy	teacher01  aaa@a.com

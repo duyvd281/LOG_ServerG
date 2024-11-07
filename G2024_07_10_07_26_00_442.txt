@@ -1,0 +1,7 @@
+G2024_07_10_07_26_00_442	File generated
+G2024_07_10_07_26_00_442	Search	controller1	Clicked on	Search	in P0120	
+G2024_07_10_07_26_07_562	Services	controller1	Clicked on	Services	in P0120	
+G2024_07_10_07_26_18_082	Logs	controller1	Clicked on	Logs	in PServices	
+G2024_07_10_07_26_40_124	Services	controller1	Clicked on	Services	in P0120	
+G2024_07_10_07_26_42_619	Config	controller1	Clicked on	Config	in PServices	
+G2024_07_10_07_26_49_422	View/Edit	controller1	Clicked on	View/Edit	in PConfig	Website Configuration::Logs	

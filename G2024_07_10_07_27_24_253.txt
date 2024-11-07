@@ -1,0 +1,13 @@
+G2024_07_10_07_27_24_253	File generated
+G2024_07_10_07_27_24_253	Config	controller1	Clicked on	Config	in PServices	
+G2024_07_10_07_27_28_486	View/Edit	controller1	Clicked on	View/Edit	in PConfig	Website Configuration::PS01	
+G2024_07_10_07_27_30_951	Config	controller1	Clicked on	Config	in PServices	
+G2024_07_10_07_27_35_927	View/Edit	controller1	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_07_10_07_27_46_838	View/Edit	controller1	Clicked on	View/Edit	in PConfig	Website Configuration::EDITING PARAMETERS	
+G2024_07_10_07_27_58_752	Config	controller1	Clicked on	Config	in PServices	
+G2024_07_10_07_28_01_490	Services	controller1	Clicked on	Services	in P0120	
+G2024_07_10_07_28_06_321	Password	controller1	Clicked on	Passwords	in PServices	
+G2024_07_10_07_28_19_069	Services	controller1	Clicked on	Services	in P0120	
+G2024_07_10_07_28_34_868	controller1	Logged out	by Click			
+G2024_07_10_11_33_18_410	admin	Logged in	216.115.254.184				
+G2024_07_10_11_33_26_502	View/Edit	admin	Clicked on	View/Edit	in P0120	5-1-1	
